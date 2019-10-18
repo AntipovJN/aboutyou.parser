@@ -1,0 +1,3845 @@
+[
+  {
+    "id": 4383808,
+    "name": "Shirt \u0027MADDOX\u0027",
+    "brand": "Alife and Kickin",
+    "color": "blau",
+    "price": 15.33,
+    "articleID": "ALF0116002000002",
+    "url": "https://www.aboutyou.de/p/alife-and-kickin/shirt-maddox-4383808"
+  },
+  {
+    "id": 3793979,
+    "name": "T-Shirt \u0027Trefoil\u0027",
+    "brand": "ADIDAS ORIGINALS",
+    "color": "schwarz",
+    "price": 21.17,
+    "articleID": "CW0709-290",
+    "url": "https://www.aboutyou.de/p/adidas-originals/t-shirt-trefoil-3793979"
+  },
+  {
+    "id": 3672124,
+    "name": "Hoody \u0027Basic\u0027",
+    "brand": "ALPHA INDUSTRIES",
+    "color": "gruen",
+    "price": 59.9,
+    "articleID": "API0091003000002",
+    "url": "https://www.aboutyou.de/p/alpha-industries/hoody-basic-3672124"
+  },
+  {
+    "id": 3396662,
+    "name": "Boxershorts \u0027Trunk\u0027",
+    "brand": "Tommy Hilfiger Underwear",
+    "color": "blau",
+    "price": 39.9,
+    "articleID": "THU0030004001000",
+    "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/boxershorts-trunk-3396662"
+  },
+  {
+    "id": 4426821,
+    "name": "Shirt",
+    "brand": "TOMMY HILFIGER",
+    "color": "gruen",
+    "price": 39.9,
+    "articleID": "THS3380004000003",
+    "url": "https://www.aboutyou.de/p/tommy-hilfiger/shirt-4426821"
+  },
+  {
+    "id": 4319302,
+    "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+    "brand": "naketano",
+    "color": "beige",
+    "price": 31.41,
+    "articleID": "NAK1275027000001",
+    "url": "https://www.aboutyou.de/p/naketano/sweatshirt-diese-nüsse-4319302"
+  },
+  {
+    "id": 3396665,
+    "name": "Boxershorts \u0027Trunk\u0027",
+    "brand": "Tommy Hilfiger Underwear",
+    "color": "schwarz",
+    "price": 39.99,
+    "articleID": "926638589",
+    "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/boxershorts-trunk-3396665"
+  },
+  {
+    "id": 3910705,
+    "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+    "brand": "naketano",
+    "color": "grau",
+    "price": 31.41,
+    "articleID": "NAK1275011000001",
+    "url": "https://www.aboutyou.de/p/naketano/sweatshirt-diese-nüsse-3910705"
+  },
+  {
+    "id": 3933220,
+    "name": "Pullover",
+    "brand": "JACK \u0026 JONES",
+    "color": "grau",
+    "price": 22.41,
+    "articleID": "JAC0898006000001",
+    "url": "https://www.aboutyou.de/p/jack-\u0026-jones/pullover-3933220"
+  },
+  {
+    "id": 4319312,
+    "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+    "brand": "naketano",
+    "color": "blau",
+    "price": 31.41,
+    "articleID": "NAK1275024000001",
+    "url": "https://www.aboutyou.de/p/naketano/sweatshirt-diese-nüsse-4319312"
+  },
+  {
+    "id": 4088875,
+    "name": "Hose \u0027MARCO BOWIE\u0027",
+    "brand": "JACK \u0026 JONES",
+    "color": "gruen",
+    "price": 35.91,
+    "articleID": "JAC1675001000002",
+    "url": "https://www.aboutyou.de/p/jack-\u0026-jones/hose-marco-bowie-4088875"
+  },
+  {
+    "id": 3396671,
+    "name": "Boxershorts \u0027Trunk\u0027 (3er Pack)",
+    "brand": "Tommy Hilfiger Underwear",
+    "color": "weiss",
+    "price": 39.9,
+    "articleID": "THU0030003001000",
+    "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/boxershorts-trunk-(3er-pack)-3396671"
+  },
+  {
+    "id": 4346968,
+    "name": "Pullover \u0027JORFLASH KNIT CREW NECK\u0027",
+    "brand": "JACK \u0026 JONES",
+    "color": "blau",
+    "price": 25.42,
+    "articleID": "JAC2344003000003",
+    "url": "https://www.aboutyou.de/p/jack-\u0026-jones/pullover-jorflash-knit-crew-neck-4346968"
+  },
+  {
+    "id": 4140068,
+    "name": "Jeans \u0027Glenn Original Am 816\u0027",
+    "brand": "JACK \u0026 JONES",
+    "color": "schwarz",
+    "price": 35.91,
+    "articleID": "5713757028566",
+    "url": "https://www.aboutyou.de/p/jack-\u0026-jones/jeans-glenn-original-am-816-4140068"
+  },
+  {
+    "id": 4316250,
+    "name": "Hoody",
+    "brand": "ALPHA INDUSTRIES",
+    "color": "rot",
+    "price": 59.9,
+    "articleID": "API0091008000001",
+    "url": "https://www.aboutyou.de/p/alpha-industries/hoody-4316250"
+  },
+  {
+    "id": 3910688,
+    "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+    "brand": "naketano",
+    "color": "blau",
+    "price": 40.41,
+    "articleID": "NAK1275021000001",
+    "url": "https://www.aboutyou.de/p/naketano/sweatshirt-diese-nüsse-3910688"
+  },
+  {
+    "id": 4397149,
+    "name": "Hemd",
+    "brand": "s.Oliver",
+    "color": "gruen",
+    "price": 27.92,
+    "articleID": "SOV2269004000001",
+    "url": "https://www.aboutyou.de/p/s.oliver/hemd-4397149"
+  },
+  {
+    "id": 4185116,
+    "name": "Boxershorts \u0027Trunk\u0027 (3er Pack)",
+    "brand": "Tommy Hilfiger Underwear",
+    "color": "blau",
+    "price": 39.9,
+    "articleID": "THU0030034000001",
+    "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/boxershorts-trunk-(3er-pack)-4185116"
+  },
+  {
+    "id": 3933215,
+    "name": "Pullover \u0027JJEBASIC KNIT CREW NECK\u0027",
+    "brand": "JACK \u0026 JONES",
+    "color": "rot",
+    "price": 24.99,
+    "articleID": "5713736472861",
+    "url": "https://www.aboutyou.de/p/jack-\u0026-jones/pullover-jjebasic-knit-crew-neck-3933215"
+  },
+  {
+    "id": 4429927,
+    "name": "Shirt",
+    "brand": "Champion Authentic Athletic Apparel",
+    "color": "gelb",
+    "price": 19.92,
+    "articleID": "CHP0324006000002",
+    "url": "https://www.aboutyou.de/p/champion-authentic-athletic-apparel/shirt-4429927"
+  },
+  {
+    "id": 3933211,
+    "name": "Pullover \u0027JJEBASIC KNIT CREW NECK\u0027",
+    "brand": "JACK \u0026 JONES",
+    "color": "grau",
+    "price": 22.41,
+    "articleID": "JAC0898001000001",
+    "url": "https://www.aboutyou.de/p/jack-\u0026-jones/pullover-jjebasic-knit-crew-neck-3933211"
+  },
+  {
+    "id": 3886089,
+    "name": "Tee \u0027Pray\u0027",
+    "brand": "Mister Tee",
+    "color": "weiss",
+    "price": 20.61,
+    "articleID": "MT157-00220-0058",
+    "url": "https://www.aboutyou.de/p/mister-tee/tee-pray-3886089"
+  },
+  {
+    "id": 3910679,
+    "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+    "brand": "naketano",
+    "color": "braun",
+    "price": 31.41,
+    "articleID": "NAK1275008000001",
+    "url": "https://www.aboutyou.de/p/naketano/sweatshirt-diese-nüsse-3910679"
+  },
+  {
+    "id": 3910663,
+    "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+    "brand": "naketano",
+    "color": "grau",
+    "price": 31.41,
+    "articleID": "NAK1275020000001",
+    "url": "https://www.aboutyou.de/p/naketano/sweatshirt-diese-nüsse-3910663"
+  },
+  {
+    "id": 4267135,
+    "name": "T-Shirt \u0027CANALETTO\u0027",
+    "brand": "ELLESSE",
+    "color": "pink",
+    "price": 24.9,
+    "articleID": "ELS0074011000002",
+    "url": "https://www.aboutyou.de/p/ellesse/t-shirt-canaletto-4267135"
+  },
+  {
+    "id": 4264962,
+    "name": "T-Shirt \u0027CANALETTO\u0027",
+    "brand": "ELLESSE",
+    "color": "gruen",
+    "price": 24.9,
+    "articleID": "ELS0074012000001",
+    "url": "https://www.aboutyou.de/p/ellesse/t-shirt-canaletto-4264962"
+  },
+  {
+    "id": 3943539,
+    "name": "Jeans \u0027onsLOOM JOG DK BLUE PK 0431 NOOS\u0027",
+    "brand": "Only \u0026 Sons",
+    "color": "blau",
+    "price": 35.91,
+    "articleID": "ONS0662001000001",
+    "url": "https://www.aboutyou.de/p/only-\u0026-sons/jeans-onsloom-jog-dk-blue-pk-0431-noos-3943539"
+  },
+  {
+    "id": 3570808,
+    "name": "T-Shirt \u0027onsMATT LONGY TEE\u0027",
+    "brand": "Only \u0026 Sons",
+    "color": "grau",
+    "price": 13.41,
+    "articleID": "ONS0284002000001",
+    "url": "https://www.aboutyou.de/p/only-\u0026-sons/t-shirt-onsmatt-longy-tee-3570808"
+  },
+  {
+    "id": 4332564,
+    "name": "T-Shirt \u0027Trefoil\u0027",
+    "brand": "ADIDAS ORIGINALS",
+    "color": "blau",
+    "price": 26.9,
+    "articleID": "ED4715-290",
+    "url": "https://www.aboutyou.de/p/adidas-originals/t-shirt-trefoil-4332564"
+  },
+  {
+    "id": 4318232,
+    "name": "Hoody",
+    "brand": "ALPHA INDUSTRIES",
+    "color": "blau",
+    "price": 59.9,
+    "articleID": "API0091010000001",
+    "url": "https://www.aboutyou.de/p/alpha-industries/hoody-4318232"
+  },
+  {
+    "id": 4318236,
+    "name": "Hoody",
+    "brand": "ALPHA INDUSTRIES",
+    "color": "schwarz",
+    "price": 59.9,
+    "articleID": "API0091011000001",
+    "url": "https://www.aboutyou.de/p/alpha-industries/hoody-4318236"
+  },
+  {
+    "id": 4396038,
+    "name": "Hemd",
+    "brand": "s.Oliver",
+    "color": "blau",
+    "price": 34.9,
+    "articleID": "SOV2269003000002",
+    "url": "https://www.aboutyou.de/p/s.oliver/hemd-4396038"
+  },
+  {
+    "id": 4319267,
+    "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+    "brand": "naketano",
+    "color": "gruen",
+    "price": 31.41,
+    "articleID": "NAK1275026000001",
+    "url": "https://www.aboutyou.de/p/naketano/sweatshirt-diese-nüsse-4319267"
+  },
+  {
+    "id": 4318242,
+    "name": "Shirt",
+    "brand": "ALPHA INDUSTRIES",
+    "color": "weiss",
+    "price": 22.9,
+    "articleID": "API0047032000001",
+    "url": "https://www.aboutyou.de/p/alpha-industries/shirt-4318242"
+  },
+  {
+    "id": 4318247,
+    "name": "Shirt",
+    "brand": "ALPHA INDUSTRIES",
+    "color": "weiss",
+    "price": 19.9,
+    "articleID": "API0047031000001",
+    "url": "https://www.aboutyou.de/p/alpha-industries/shirt-4318247"
+  },
+  {
+    "id": 3819613,
+    "name": "Hoody \u0027Basic\u0027",
+    "brand": "ALPHA INDUSTRIES",
+    "color": "blau",
+    "price": 47.95,
+    "articleID": "276805016",
+    "url": "https://www.aboutyou.de/p/alpha-industries/hoody-basic-3819613"
+  },
+  {
+    "id": 4346916,
+    "name": "Pullover \u0027JORFLASH KNIT CREW NECK\u0027",
+    "brand": "JACK \u0026 JONES",
+    "color": "gelb",
+    "price": 29.99,
+    "articleID": "5714490214162",
+    "url": "https://www.aboutyou.de/p/jack-\u0026-jones/pullover-jorflash-knit-crew-neck-4346916"
+  },
+  {
+    "id": 3781713,
+    "name": "Blouson \u0027Adrian ZA\u0027",
+    "brand": "INDICODE JEANS",
+    "color": "gruen",
+    "price": 65.9,
+    "articleID": "1031622792",
+    "url": "https://www.aboutyou.de/p/indicode-jeans/blouson-adrian-za-3781713"
+  },
+  {
+    "id": 4433962,
+    "name": "Shirt \u0027MADDOX\u0027",
+    "brand": "Alife and Kickin",
+    "color": "gruen",
+    "price": 17.91,
+    "articleID": "ALF0116003000001",
+    "url": "https://www.aboutyou.de/p/alife-and-kickin/shirt-maddox-4433962"
+  },
+  {
+    "id": 3781715,
+    "name": "Bomberjacke \u0027 Adrian ZA \u0027",
+    "brand": "INDICODE JEANS",
+    "color": "schwarz",
+    "price": 65.9,
+    "articleID": "1031622805",
+    "url": "https://www.aboutyou.de/p/indicode-jeans/bomberjacke--adrian-za--3781715"
+  },
+  {
+    "id": 4389928,
+    "name": "Shirt",
+    "brand": "s.Oliver",
+    "color": "beige",
+    "price": 15.99,
+    "articleID": "13.908.32.4292_0330M",
+    "url": "https://www.aboutyou.de/p/s.oliver/shirt-4389928"
+  },
+  {
+    "id": 4318250,
+    "name": "Shirt",
+    "brand": "ALPHA INDUSTRIES",
+    "color": "blau",
+    "price": 22.9,
+    "articleID": "API0047030000001",
+    "url": "https://www.aboutyou.de/p/alpha-industries/shirt-4318250"
+  },
+  {
+    "id": 4318254,
+    "name": "Shirt",
+    "brand": "ALPHA INDUSTRIES",
+    "color": "rot",
+    "price": 19.9,
+    "articleID": "API0047026000001",
+    "url": "https://www.aboutyou.de/p/alpha-industries/shirt-4318254"
+  },
+  {
+    "id": 4318252,
+    "name": "Shirt",
+    "brand": "ALPHA INDUSTRIES",
+    "color": "schwarz",
+    "price": 22.9,
+    "articleID": "API0047029000001",
+    "url": "https://www.aboutyou.de/p/alpha-industries/shirt-4318252"
+  },
+  {
+    "id": 3781707,
+    "name": "Bomberjacke \u0027Adrian ZA\u0027",
+    "brand": "INDICODE JEANS",
+    "color": "blau",
+    "price": 65.9,
+    "articleID": "1031622785",
+    "url": "https://www.aboutyou.de/p/indicode-jeans/bomberjacke-adrian-za-3781707"
+  },
+  {
+    "id": 3415109,
+    "name": "Boxershorts",
+    "brand": "Tommy Hilfiger Underwear",
+    "color": "grau",
+    "price": 39.9,
+    "articleID": "926573865",
+    "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/boxershorts-3415109"
+  },
+  {
+    "id": 4318256,
+    "name": "Shirt",
+    "brand": "ALPHA INDUSTRIES",
+    "color": "orange",
+    "price": 24.9,
+    "articleID": "API0047028000002",
+    "url": "https://www.aboutyou.de/p/alpha-industries/shirt-4318256"
+  },
+  {
+    "id": 3781709,
+    "name": "Blouson \u0027 Adrian ZA \u0027",
+    "brand": "INDICODE JEANS",
+    "color": "grau",
+    "price": 65.9,
+    "articleID": "1031622798",
+    "url": "https://www.aboutyou.de/p/indicode-jeans/blouson--adrian-za--3781709"
+  },
+  {
+    "id": 4367419,
+    "name": "Sweatshirt",
+    "brand": "Champion Authentic Athletic Apparel",
+    "color": "weiss",
+    "price": 50.92,
+    "articleID": "CHP0322007000001",
+    "url": "https://www.aboutyou.de/p/champion-authentic-athletic-apparel/sweatshirt-4367419"
+  },
+  {
+    "id": 4427837,
+    "name": "T-Shirt",
+    "brand": "TOM TAILOR",
+    "color": "gruen",
+    "price": 7.74,
+    "articleID": "TOT5251003000005",
+    "url": "https://www.aboutyou.de/p/tom-tailor/t-shirt-4427837"
+  },
+  {
+    "id": 4426815,
+    "name": "Shirt",
+    "brand": "TOMMY HILFIGER",
+    "color": "rot",
+    "price": 39.9,
+    "articleID": "THS3380009000002",
+    "url": "https://www.aboutyou.de/p/tommy-hilfiger/shirt-4426815"
+  },
+  {
+    "id": 4017217,
+    "name": "Mantel \u0027onsOSCAR WOOL COAT\u0027",
+    "brand": "Only \u0026 Sons",
+    "color": "schwarz",
+    "price": 92.65,
+    "articleID": "ONS0600003000001",
+    "url": "https://www.aboutyou.de/p/only-\u0026-sons/mantel-onsoscar-wool-coat-4017217"
+  },
+  {
+    "id": 4304953,
+    "name": "Shirt \u0027ALBERT\u0027",
+    "brand": "Only \u0026 Sons",
+    "color": "gruen",
+    "price": 13.49,
+    "articleID": "5714491758030",
+    "url": "https://www.aboutyou.de/p/only-\u0026-sons/shirt-albert-4304953"
+  },
+  {
+    "id": 4314307,
+    "name": "Sweatshirt",
+    "brand": "Tommy Jeans",
+    "color": "rot",
+    "price": 94.91,
+    "articleID": "HID2284004000002",
+    "url": "https://www.aboutyou.de/p/tommy-jeans/sweatshirt-4314307"
+  },
+  {
+    "id": 4314308,
+    "name": "Sweatshirt",
+    "brand": "Tommy Jeans",
+    "color": "grau",
+    "price": 84.92,
+    "articleID": "HID2284002000005",
+    "url": "https://www.aboutyou.de/p/tommy-jeans/sweatshirt-4314308"
+  },
+  {
+    "id": 4314310,
+    "name": "Sweatshirt",
+    "brand": "Tommy Jeans",
+    "color": "weiss",
+    "price": 89.91,
+    "articleID": "HID2284003000004",
+    "url": "https://www.aboutyou.de/p/tommy-jeans/sweatshirt-4314310"
+  },
+  {
+    "id": 3650747,
+    "name": "T-Shirt \u0027PRADO\u0027",
+    "brand": "ELLESSE",
+    "color": "grau",
+    "price": 18.68,
+    "articleID": "ELS0032002000006",
+    "url": "https://www.aboutyou.de/p/ellesse/t-shirt-prado-3650747"
+  },
+  {
+    "id": 3950770,
+    "name": "T-Shirt\u0027s \u0027FALL CREW MULTIPACK\u0027",
+    "brand": "Abercrombie \u0026 Fitch",
+    "color": "grau",
+    "price": 44.91,
+    "articleID": "AAF0017001000001",
+    "url": "https://www.aboutyou.de/p/abercrombie-\u0026-fitch/t-shirts-fall-crew-multipack-3950770"
+  },
+  {
+    "id": 4185268,
+    "name": "Boxershorts \u0027Trunk\u0027 (3er Pack)",
+    "brand": "Tommy Hilfiger Underwear",
+    "color": "blau",
+    "price": 34.9,
+    "articleID": "THU0030030000001",
+    "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/boxershorts-trunk-(3er-pack)-4185268"
+  },
+  {
+    "id": 3901613,
+    "name": "Trunks",
+    "brand": "Tommy Hilfiger Underwear",
+    "color": "blau",
+    "price": 39.9,
+    "articleID": "THU0030020000001",
+    "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/trunks-3901613"
+  },
+  {
+    "id": 4185263,
+    "name": "Boxershorts \u0027Trunk\u0027 (3er Pack)",
+    "brand": "Tommy Hilfiger Underwear",
+    "color": "schwarz",
+    "price": 39.9,
+    "articleID": "THU0030031000001",
+    "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/boxershorts-trunk-(3er-pack)-4185263"
+  },
+  {
+    "id": 4414674,
+    "name": "Shirt \u0027ORIG ARCH T\u0027",
+    "brand": "GAP",
+    "color": "beige",
+    "price": 14.94,
+    "articleID": "GAP2174009000001",
+    "url": "https://www.aboutyou.de/p/gap/shirt-orig-arch-t-4414674"
+  },
+  {
+    "id": 4335842,
+    "name": "Boxershorts \u0027Trunk\u0027",
+    "brand": "Tommy Hilfiger Underwear",
+    "color": "blau",
+    "price": 39.99,
+    "articleID": "813098437",
+    "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/boxershorts-trunk-4335842"
+  },
+  {
+    "id": 3674257,
+    "name": "Print-Shirt",
+    "brand": "ALPHA INDUSTRIES",
+    "color": "grau",
+    "price": 19.9,
+    "articleID": "API0047008000002",
+    "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-3674257"
+  },
+  {
+    "id": 2211981,
+    "name": "Print-Shirt",
+    "brand": "ALPHA INDUSTRIES",
+    "color": "grau",
+    "price": 19.9,
+    "articleID": "API0047003001000",
+    "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-2211981"
+  },
+  {
+    "id": 3848340,
+    "name": "Sweatshirt",
+    "brand": "naketano",
+    "color": "beige",
+    "price": 29.9,
+    "articleID": "NAK1275004000001",
+    "url": "https://www.aboutyou.de/p/naketano/sweatshirt-3848340"
+  },
+  {
+    "id": 4414707,
+    "name": "Shirt \u0027Theodore\u0027",
+    "brand": "Iriedaily",
+    "color": "mischfarben",
+    "price": 26.53,
+    "articleID": "IRD0578002000002",
+    "url": "https://www.aboutyou.de/p/iriedaily/shirt-theodore-4414707"
+  },
+  {
+    "id": 4346093,
+    "name": "Boxershorts \u0027JACGARY TRUNKS\u0027",
+    "brand": "JACK \u0026 JONES",
+    "color": "mischfarben",
+    "price": 19.92,
+    "articleID": "JAC2434001000001",
+    "url": "https://www.aboutyou.de/p/jack-\u0026-jones/boxershorts-jacgary-trunks-4346093"
+  },
+  {
+    "id": 4020361,
+    "name": "T-Shirt \u0027TJM ORIGINAL JERSEY V NECK TEE\u0027",
+    "brand": "Tommy Jeans",
+    "color": "blau",
+    "price": 24.9,
+    "articleID": "HID1607004000001",
+    "url": "https://www.aboutyou.de/p/tommy-jeans/t-shirt-tjm-original-jersey-v-neck-tee-4020361"
+  },
+  {
+    "id": 3972233,
+    "name": "Jeans \u0027onsWARP BLACK WASHED LD PK 0899\u0027",
+    "brand": "Only \u0026 Sons",
+    "color": "schwarz",
+    "price": 44.91,
+    "articleID": "ONS0698001000002",
+    "url": "https://www.aboutyou.de/p/only-\u0026-sons/jeans-onswarp-black-washed-ld-pk-0899-3972233"
+  },
+  {
+    "id": 4383872,
+    "name": "Shirt \u0027MT MOUSTACHE\u0027",
+    "brand": "Key Largo",
+    "color": "schwarz",
+    "price": 19.74,
+    "articleID": "KYL0473001000001",
+    "url": "https://www.aboutyou.de/p/key-largo/shirt-mt-moustache-4383872"
+  },
+  {
+    "id": 4011261,
+    "name": "Pullover \u0027onsLAZLO STRIPED CREW NECK KNIT\u0027",
+    "brand": "Only \u0026 Sons",
+    "color": "gruen",
+    "price": 25.42,
+    "articleID": "ONS0638005000001",
+    "url": "https://www.aboutyou.de/p/only-\u0026-sons/pullover-onslazlo-striped-crew-neck-knit-4011261"
+  },
+  {
+    "id": 4402424,
+    "name": "Shirt \u0027onsBIKE SS LONGY TEE\u0027",
+    "brand": "Only \u0026 Sons",
+    "color": "rot",
+    "price": 8.94,
+    "articleID": "ONS1268002000003",
+    "url": "https://www.aboutyou.de/p/only-\u0026-sons/shirt-onsbike-ss-longy-tee-4402424"
+  },
+  {
+    "id": 3662064,
+    "name": "Langarmhemd \u0027onsGUDMUND\u0027",
+    "brand": "Only \u0026 Sons",
+    "color": "schwarz",
+    "price": 16.9,
+    "articleID": "ONS0333001000001",
+    "url": "https://www.aboutyou.de/p/only-\u0026-sons/langarmhemd-onsgudmund-3662064"
+  },
+  {
+    "id": 3649781,
+    "name": "Hemd \u0027ALFREDO\u0027",
+    "brand": "Only \u0026 Sons",
+    "color": "blau",
+    "price": 26.91,
+    "articleID": "ONS0522001000002",
+    "url": "https://www.aboutyou.de/p/only-\u0026-sons/hemd-alfredo-3649781"
+  },
+  {
+    "id": 4461705,
+    "name": "Hose \u0027FIREBIRD TP\u0027",
+    "brand": "ADIDAS ORIGINALS",
+    "color": "lila",
+    "price": 59.9,
+    "articleID": "ED7013-210",
+    "url": "https://www.aboutyou.de/p/adidas-originals/hose-firebird-tp-4461705"
+  },
+  {
+    "id": 4461703,
+    "name": "Hose \u0027FIREBIRD TP\u0027",
+    "brand": "ADIDAS ORIGINALS",
+    "color": "gruen",
+    "price": 59.9,
+    "articleID": "ED7012-210",
+    "url": "https://www.aboutyou.de/p/adidas-originals/hose-firebird-tp-4461703"
+  },
+  {
+    "id": 3807467,
+    "name": "T-Shirt \u0027TREFOIL\u0027",
+    "brand": "ADIDAS ORIGINALS",
+    "color": "rot",
+    "price": 20.9,
+    "articleID": "ADT0421007000001",
+    "url": "https://www.aboutyou.de/p/adidas-originals/t-shirt-trefoil-3807467"
+  },
+  {
+    "id": 3923176,
+    "name": "Hoodie \u0027Trefoil\u0027",
+    "brand": "ADIDAS ORIGINALS",
+    "color": "schwarz",
+    "price": 56.99,
+    "articleID": "926691614",
+    "url": "https://www.aboutyou.de/p/adidas-originals/hoodie-trefoil-3923176"
+  },
+  {
+    "id": 4410510,
+    "name": "Shirt \u0027JORPHONY TEE SS CREW NECK\u0027",
+    "brand": "JACK \u0026 JONES",
+    "color": "rot",
+    "price": 10.79,
+    "articleID": "JAC2378001000003",
+    "url": "https://www.aboutyou.de/p/jack-\u0026-jones/shirt-jorphony-tee-ss-crew-neck-4410510"
+  },
+  {
+    "id": 3807471,
+    "name": "T-Shirt \u0027TREFOIL\u0027",
+    "brand": "ADIDAS ORIGINALS",
+    "color": "blau",
+    "price": 17.9,
+    "articleID": "ADT0421004000001",
+    "url": "https://www.aboutyou.de/p/adidas-originals/t-shirt-trefoil-3807471"
+  },
+  {
+    "id": 3569888,
+    "name": "T-Shirt \u0027onsMATT LONGY TEE\u0027",
+    "brand": "Only \u0026 Sons",
+    "color": "weiss",
+    "price": 13.41,
+    "articleID": "ONS0284003000005",
+    "url": "https://www.aboutyou.de/p/only-\u0026-sons/t-shirt-onsmatt-longy-tee-3569888"
+  },
+  {
+    "id": 3913955,
+    "name": "Untershirt \u0027UMTEE-JAKE\u0027",
+    "brand": "DIESEL",
+    "color": "grau",
+    "price": 39.9,
+    "articleID": "DIL0833001000001",
+    "url": "https://www.aboutyou.de/p/diesel/untershirt-umtee-jake-3913955"
+  },
+  {
+    "id": 4164836,
+    "name": "T-Shirt \u0027PRADO\u0027",
+    "brand": "ELLESSE",
+    "color": "weiss",
+    "price": 24.9,
+    "articleID": "ELS0032018000001",
+    "url": "https://www.aboutyou.de/p/ellesse/t-shirt-prado-4164836"
+  },
+  {
+    "id": 4445339,
+    "name": "Hemd \u0027ALFREDO\u0027",
+    "brand": "Only \u0026 Sons",
+    "color": "rot",
+    "price": 29.9,
+    "articleID": "ONS0522006000001",
+    "url": "https://www.aboutyou.de/p/only-\u0026-sons/hemd-alfredo-4445339"
+  },
+  {
+    "id": 3649771,
+    "name": "Hemd \u0027ALFREDO\u0027",
+    "brand": "Only \u0026 Sons",
+    "color": "weiss",
+    "price": 26.91,
+    "articleID": "ONS0522002000001",
+    "url": "https://www.aboutyou.de/p/only-\u0026-sons/hemd-alfredo-3649771"
+  },
+  {
+    "id": 4445343,
+    "name": "Hemd \u0027ALFREDO\u0027",
+    "brand": "Only \u0026 Sons",
+    "color": "gruen",
+    "price": 29.9,
+    "articleID": "ONS0522005000001",
+    "url": "https://www.aboutyou.de/p/only-\u0026-sons/hemd-alfredo-4445343"
+  },
+  {
+    "id": 4164830,
+    "name": "T-Shirt \u0027PRADO\u0027",
+    "brand": "ELLESSE",
+    "color": "gelb",
+    "price": 21.9,
+    "articleID": "ELS0032019000001",
+    "url": "https://www.aboutyou.de/p/ellesse/t-shirt-prado-4164830"
+  },
+  {
+    "id": 4320418,
+    "name": "Sweatshirt \u0027VOCAL CREW\u0027",
+    "brand": "ADIDAS ORIGINALS",
+    "color": "schwarz",
+    "price": 54.9,
+    "articleID": "ED7227-250",
+    "url": "https://www.aboutyou.de/p/adidas-originals/sweatshirt-vocal-crew-4320418"
+  },
+  {
+    "id": 3913938,
+    "name": "Shirt \u0027UMTEE-JAKE\u0027",
+    "brand": "DIESEL",
+    "color": "schwarz",
+    "price": 33.92,
+    "articleID": "DIL0833002000006",
+    "url": "https://www.aboutyou.de/p/diesel/shirt-umtee-jake-3913938"
+  },
+  {
+    "id": 3569887,
+    "name": "T-Shirt \u0027onsMATT LONGY TEE\u0027",
+    "brand": "Only \u0026 Sons",
+    "color": "schwarz",
+    "price": 13.41,
+    "articleID": "ONS0284001000005",
+    "url": "https://www.aboutyou.de/p/only-\u0026-sons/t-shirt-onsmatt-longy-tee-3569887"
+  },
+  {
+    "id": 4405417,
+    "name": "Shirt \u0027JORUPTON TEE SS CREW NECK\u0027",
+    "brand": "JACK \u0026 JONES",
+    "color": "rot",
+    "price": 10.79,
+    "articleID": "JAC2380001000003",
+    "url": "https://www.aboutyou.de/p/jack-\u0026-jones/shirt-jorupton-tee-ss-crew-neck-4405417"
+  },
+  {
+    "id": 3649756,
+    "name": "Hemd \u0027ALFREDO\u0027",
+    "brand": "Only \u0026 Sons",
+    "color": "blau",
+    "price": 20.9,
+    "articleID": "ONS0522003000001",
+    "url": "https://www.aboutyou.de/p/only-\u0026-sons/hemd-alfredo-3649756"
+  },
+  {
+    "id": 4405420,
+    "name": "Shirt \u0027JORUPTON TEE SS CREW NECK\u0027",
+    "brand": "JACK \u0026 JONES",
+    "color": "weiss",
+    "price": 10.79,
+    "articleID": "JAC2380002000005",
+    "url": "https://www.aboutyou.de/p/jack-\u0026-jones/shirt-jorupton-tee-ss-crew-neck-4405420"
+  },
+  {
+    "id": 3887309,
+    "name": "T-Shirt \u0027Pray\u0027",
+    "brand": "Mister Tee",
+    "color": "schwarz",
+    "price": 19.47,
+    "articleID": "MRC0022001000001",
+    "url": "https://www.aboutyou.de/p/mister-tee/t-shirt-pray-3887309"
+  },
+  {
+    "id": 3858639,
+    "name": "Organic Cotton T-Shirt \u0027onsALBERT\u0027",
+    "brand": "Only \u0026 Sons",
+    "color": "blau",
+    "price": 12.9,
+    "articleID": "ONS0402008000001",
+    "url": "https://www.aboutyou.de/p/only-\u0026-sons/organic-cotton-t-shirt-onsalbert-3858639"
+  },
+  {
+    "id": 4429121,
+    "name": "Shirt",
+    "brand": "TOMMY HILFIGER",
+    "color": "blau",
+    "price": 39.9,
+    "articleID": "THS3380008000003",
+    "url": "https://www.aboutyou.de/p/tommy-hilfiger/shirt-4429121"
+  },
+  {
+    "id": 4405572,
+    "name": "Shirt",
+    "brand": "Pepe Jeans",
+    "color": "blau",
+    "price": 18.68,
+    "articleID": "PEP0311010000001",
+    "url": "https://www.aboutyou.de/p/pepe-jeans/shirt-4405572"
+  },
+  {
+    "id": 4000055,
+    "name": "T-Shirt",
+    "brand": "Calvin Klein Jeans",
+    "color": "blau",
+    "price": 29.9,
+    "articleID": "CAL1288003000002",
+    "url": "https://www.aboutyou.de/p/calvin-klein-jeans/t-shirt-4000055"
+  },
+  {
+    "id": 4429133,
+    "name": "Shirt",
+    "brand": "TOMMY HILFIGER",
+    "color": "rot",
+    "price": 39.9,
+    "articleID": "THS3380002000003",
+    "url": "https://www.aboutyou.de/p/tommy-hilfiger/shirt-4429133"
+  },
+  {
+    "id": 4405580,
+    "name": "Shirt",
+    "brand": "Pepe Jeans",
+    "color": "grau",
+    "price": 16.74,
+    "articleID": "PEP0311011000001",
+    "url": "https://www.aboutyou.de/p/pepe-jeans/shirt-4405580"
+  },
+  {
+    "id": 4413778,
+    "name": "Pullover \u0027Crazy Fresh\u0027",
+    "brand": "Iriedaily",
+    "color": "gruen",
+    "price": 51.92,
+    "articleID": "IRD0565001000001",
+    "url": "https://www.aboutyou.de/p/iriedaily/pullover-crazy-fresh-4413778"
+  },
+  {
+    "id": 3858731,
+    "name": "T-Shirt \u0027TJM ORIGINAL JERSEY V NECK TEE\u0027",
+    "brand": "Tommy Jeans",
+    "color": "schwarz",
+    "price": 24.9,
+    "articleID": "HID1607002000001",
+    "url": "https://www.aboutyou.de/p/tommy-jeans/t-shirt-tjm-original-jersey-v-neck-tee-3858731"
+  },
+  {
+    "id": 3942693,
+    "name": "T-Shirt \u0027onsMATT LONGY TEE\u0027",
+    "brand": "Only \u0026 Sons",
+    "color": "blau",
+    "price": 9.9,
+    "articleID": "ONS0284010000001",
+    "url": "https://www.aboutyou.de/p/only-\u0026-sons/t-shirt-onsmatt-longy-tee-3942693"
+  },
+  {
+    "id": 3858726,
+    "name": "T-Shirt \u0027TJM ORIGINAL JERSEY V NECK TEE\u0027",
+    "brand": "Tommy Jeans",
+    "color": "grau",
+    "price": 24.9,
+    "articleID": "HID1607001000001",
+    "url": "https://www.aboutyou.de/p/tommy-jeans/t-shirt-tjm-original-jersey-v-neck-tee-3858726"
+  },
+  {
+    "id": 3858724,
+    "name": "T-Shirt \u0027TJM ORIGINAL JERSEY V NECK TEE\u0027",
+    "brand": "Tommy Jeans",
+    "color": "weiss",
+    "price": 24.9,
+    "articleID": "HID1607003000001",
+    "url": "https://www.aboutyou.de/p/tommy-jeans/t-shirt-tjm-original-jersey-v-neck-tee-3858724"
+  },
+  {
+    "id": 4405591,
+    "name": "Shirt \u0027JORPHONY TEE SS CREW NECK\u0027",
+    "brand": "JACK \u0026 JONES",
+    "color": "weiss",
+    "price": 13.49,
+    "articleID": "JAC2378002000003",
+    "url": "https://www.aboutyou.de/p/jack-\u0026-jones/shirt-jorphony-tee-ss-crew-neck-4405591"
+  },
+  {
+    "id": 4411745,
+    "name": "Shirt \u0027V-LOGO DISTRESS ARCH\u0027",
+    "brand": "GAP",
+    "color": "weiss",
+    "price": 18.39,
+    "articleID": "GAP2200002000001",
+    "url": "https://www.aboutyou.de/p/gap/shirt-v-logo-distress-arch-4411745"
+  },
+  {
+    "id": 4436321,
+    "name": "Shirt",
+    "brand": "Champion Authentic Athletic Apparel",
+    "color": "rot",
+    "price": 22.41,
+    "articleID": "CHP0324005000001",
+    "url": "https://www.aboutyou.de/p/champion-authentic-athletic-apparel/shirt-4436321"
+  },
+  {
+    "id": 4436328,
+    "name": "Shirt",
+    "brand": "Champion Authentic Athletic Apparel",
+    "color": "gruen",
+    "price": 22.41,
+    "articleID": "CHP0324003000001",
+    "url": "https://www.aboutyou.de/p/champion-authentic-athletic-apparel/shirt-4436328"
+  },
+  {
+    "id": 4011277,
+    "name": "Pullover \u0027onsLAZLO STRIPED CREW NECK KNIT\u0027",
+    "brand": "Only \u0026 Sons",
+    "color": "blau",
+    "price": 26.91,
+    "articleID": "ONS0638004000001",
+    "url": "https://www.aboutyou.de/p/only-\u0026-sons/pullover-onslazlo-striped-crew-neck-knit-4011277"
+  },
+  {
+    "id": 3791105,
+    "name": "Anzug 4-teilig",
+    "brand": "BRUNO BANANI",
+    "color": "blau",
+    "price": 139.99,
+    "articleID": "925248551",
+    "url": "https://www.aboutyou.de/p/bruno-banani/anzug-4-teilig-3791105"
+  },
+  {
+    "id": 4411762,
+    "name": "Shirt \u0027JAAMES NATURE\u0027",
+    "brand": "ARMEDANGELS",
+    "color": "gruen",
+    "price": 19.74,
+    "articleID": "AAG0454002000001",
+    "url": "https://www.aboutyou.de/p/armedangels/shirt-jaames-nature-4411762"
+  },
+  {
+    "id": 4411769,
+    "name": "Shirt \u0027JAAMES NATURE\u0027",
+    "brand": "ARMEDANGELS",
+    "color": "blau",
+    "price": 20.93,
+    "articleID": "AAG0454001000002",
+    "url": "https://www.aboutyou.de/p/armedangels/shirt-jaames-nature-4411769"
+  },
+  {
+    "id": 3946761,
+    "name": "Pullover",
+    "brand": "JACK \u0026 JONES",
+    "color": "grau",
+    "price": 24.9,
+    "articleID": "JAC0898003000001",
+    "url": "https://www.aboutyou.de/p/jack-\u0026-jones/pullover-3946761"
+  },
+  {
+    "id": 4304251,
+    "name": "Shirt \u0027ALBERT\u0027",
+    "brand": "Only \u0026 Sons",
+    "color": "beige",
+    "price": 13.41,
+    "articleID": "ONS0402014000001",
+    "url": "https://www.aboutyou.de/p/only-\u0026-sons/shirt-albert-4304251"
+  },
+  {
+    "id": 4011267,
+    "name": "Pullover \u0027onsLAZLO STRIPED CREW NECK KNIT\u0027",
+    "brand": "Only \u0026 Sons",
+    "color": "rot",
+    "price": 23.92,
+    "articleID": "ONS0638001000001",
+    "url": "https://www.aboutyou.de/p/only-\u0026-sons/pullover-onslazlo-striped-crew-neck-knit-4011267"
+  },
+  {
+    "id": 3870073,
+    "name": "Sweatjacke",
+    "brand": "naketano",
+    "color": "braun",
+    "price": 53.91,
+    "articleID": "NAK1685010000001",
+    "url": "https://www.aboutyou.de/p/naketano/sweatjacke-3870073"
+  },
+  {
+    "id": 4410745,
+    "name": "Shirt",
+    "brand": "CAMP DAVID",
+    "color": "grau",
+    "price": 34.11,
+    "articleID": "I00043482BLA0461M",
+    "url": "https://www.aboutyou.de/p/camp-david/shirt-4410745"
+  },
+  {
+    "id": 4427008,
+    "name": "Shirt \u0027MONOGRAM RINGER\u0027",
+    "brand": "Calvin Klein Jeans",
+    "color": "weiss",
+    "price": 29.9,
+    "articleID": "CAL1857002000001",
+    "url": "https://www.aboutyou.de/p/calvin-klein-jeans/shirt-monogram-ringer-4427008"
+  },
+  {
+    "id": 4304255,
+    "name": "Shirt \u0027ALBERT\u0027",
+    "brand": "Only \u0026 Sons",
+    "color": "rot",
+    "price": 13.41,
+    "articleID": "5714491833317",
+    "url": "https://www.aboutyou.de/p/only-\u0026-sons/shirt-albert-4304255"
+  },
+  {
+    "id": 3914110,
+    "name": "T-Shirt \u0027Trefoil\u0027",
+    "brand": "ADIDAS ORIGINALS",
+    "color": "weiss",
+    "price": 26.9,
+    "articleID": "ADT0421010000001",
+    "url": "https://www.aboutyou.de/p/adidas-originals/t-shirt-trefoil-3914110"
+  },
+  {
+    "id": 4014456,
+    "name": "Bomberjacke \u0027Adeline\u0027",
+    "brand": "INDICODE JEANS",
+    "color": "grau",
+    "price": 109.9,
+    "articleID": "1033062135",
+    "url": "https://www.aboutyou.de/p/indicode-jeans/bomberjacke-adeline-4014456"
+  },
+  {
+    "id": 3935615,
+    "name": "Pullover",
+    "brand": "JACK \u0026 JONES",
+    "color": "blau",
+    "price": 22.41,
+    "articleID": "JAC0898002000001",
+    "url": "https://www.aboutyou.de/p/jack-\u0026-jones/pullover-3935615"
+  },
+  {
+    "id": 3935610,
+    "name": "Pullover",
+    "brand": "JACK \u0026 JONES",
+    "color": "schwarz",
+    "price": 22.41,
+    "articleID": "JAC0898005000001",
+    "url": "https://www.aboutyou.de/p/jack-\u0026-jones/pullover-3935610"
+  },
+  {
+    "id": 4120951,
+    "name": "Boxershorts \u0027Trunk\u0027",
+    "brand": "Tommy Hilfiger Underwear",
+    "color": "blau",
+    "price": 39.99,
+    "articleID": "926542889",
+    "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/boxershorts-trunk-4120951"
+  },
+  {
+    "id": 4031867,
+    "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+    "brand": "naketano",
+    "color": "pink",
+    "price": 31.41,
+    "articleID": "NAK1275017000001",
+    "url": "https://www.aboutyou.de/p/naketano/sweatshirt-diese-nüsse-4031867"
+  },
+  {
+    "id": 4031863,
+    "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+    "brand": "naketano",
+    "color": "beige",
+    "price": 31.41,
+    "articleID": "NAK1275015000001",
+    "url": "https://www.aboutyou.de/p/naketano/sweatshirt-diese-nüsse-4031863"
+  },
+  {
+    "id": 4479243,
+    "name": "Sweatshirt",
+    "brand": "Champion Authentic Athletic Apparel",
+    "color": "blau",
+    "price": 59.9,
+    "articleID": "CHP0322009000001",
+    "url": "https://www.aboutyou.de/p/champion-authentic-athletic-apparel/sweatshirt-4479243"
+  },
+  {
+    "id": 4375820,
+    "name": "Hose \u0027JJIMARCO JJCONNOR AKM 769 HERRING NOOS\u0027",
+    "brand": "JACK \u0026 JONES",
+    "color": "grau",
+    "price": 53.91,
+    "articleID": "JAC2356001000001",
+    "url": "https://www.aboutyou.de/p/jack-\u0026-jones/hose-jjimarco-jjconnor-akm-769-herring-noos-4375820"
+  },
+  {
+    "id": 4411660,
+    "name": "Sweatshirt",
+    "brand": "Tommy Jeans",
+    "color": "gruen",
+    "price": 99.9,
+    "articleID": "HID2284006000002",
+    "url": "https://www.aboutyou.de/p/tommy-jeans/sweatshirt-4411660"
+  },
+  {
+    "id": 3806568,
+    "name": "T-Shirt \u0027TREFOIL\u0027",
+    "brand": "ADIDAS ORIGINALS",
+    "color": "grau",
+    "price": 29.99,
+    "articleID": "CY4574-290",
+    "url": "https://www.aboutyou.de/p/adidas-originals/t-shirt-trefoil-3806568"
+  },
+  {
+    "id": 4047218,
+    "name": "Boxershorts \u0027Trunk\u0027",
+    "brand": "Tommy Hilfiger Underwear",
+    "color": "blau",
+    "price": 39.9,
+    "articleID": "THU0030021000001",
+    "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/boxershorts-trunk-4047218"
+  },
+  {
+    "id": 3806574,
+    "name": "T-Shirt \u0027Trefoil\u0027",
+    "brand": "ADIDAS ORIGINALS",
+    "color": "weiss",
+    "price": 24.21,
+    "articleID": "CW0710-290",
+    "url": "https://www.aboutyou.de/p/adidas-originals/t-shirt-trefoil-3806574"
+  },
+  {
+    "id": 4156768,
+    "name": "Print-Shirt",
+    "brand": "ALPHA INDUSTRIES",
+    "color": "schwarz",
+    "price": 22.9,
+    "articleID": "API0047020000001",
+    "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-4156768"
+  },
+  {
+    "id": 4295968,
+    "name": "T-Shirt",
+    "brand": "GUESS",
+    "color": "weiss",
+    "price": 29.9,
+    "articleID": "GUE1251002000002",
+    "url": "https://www.aboutyou.de/p/guess/t-shirt-4295968"
+  },
+  {
+    "id": 4156776,
+    "name": "Print-Shirt",
+    "brand": "ALPHA INDUSTRIES",
+    "color": "gruen",
+    "price": 17.9,
+    "articleID": "API0047022000001",
+    "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-4156776"
+  },
+  {
+    "id": 4429099,
+    "name": "Shirt",
+    "brand": "TOMMY HILFIGER",
+    "color": "grau",
+    "price": 39.9,
+    "articleID": "THS3380005000002",
+    "url": "https://www.aboutyou.de/p/tommy-hilfiger/shirt-4429099"
+  },
+  {
+    "id": 4429105,
+    "name": "Shirt",
+    "brand": "TOMMY HILFIGER",
+    "color": "blau",
+    "price": 39.9,
+    "articleID": "THS3380006000003",
+    "url": "https://www.aboutyou.de/p/tommy-hilfiger/shirt-4429105"
+  },
+  {
+    "id": 4102471,
+    "name": "Hose \u0027SST TRACKPANTS\u0027",
+    "brand": "ADIDAS ORIGINALS",
+    "color": "blau",
+    "price": 54.9,
+    "articleID": "ADT0434002000001",
+    "url": "https://www.aboutyou.de/p/adidas-originals/hose-sst-trackpants-4102471"
+  },
+  {
+    "id": 4156757,
+    "name": "Print-Shirt",
+    "brand": "ALPHA INDUSTRIES",
+    "color": "gruen",
+    "price": 19.9,
+    "articleID": "API0047018000001",
+    "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-4156757"
+  },
+  {
+    "id": 4429111,
+    "name": "Shirt",
+    "brand": "TOMMY HILFIGER",
+    "color": "blau",
+    "price": 39.9,
+    "articleID": "THS3380007000003",
+    "url": "https://www.aboutyou.de/p/tommy-hilfiger/shirt-4429111"
+  },
+  {
+    "id": 3764667,
+    "name": "Sweatjacke",
+    "brand": "naketano",
+    "color": "grau",
+    "price": 63.92,
+    "articleID": "NAK1685011000001",
+    "url": "https://www.aboutyou.de/p/naketano/sweatjacke-3764667"
+  },
+  {
+    "id": 3947842,
+    "name": "Hoodie \u0027ECORP\u0027",
+    "brand": "JACK \u0026 JONES",
+    "color": "blau",
+    "price": 26.91,
+    "articleID": "JAC0907003000001",
+    "url": "https://www.aboutyou.de/p/jack-\u0026-jones/hoodie-ecorp-3947842"
+  },
+  {
+    "id": 4031822,
+    "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+    "brand": "naketano",
+    "color": "gruen",
+    "price": 31.41,
+    "articleID": "NAK1275019000001",
+    "url": "https://www.aboutyou.de/p/naketano/sweatshirt-diese-nüsse-4031822"
+  },
+  {
+    "id": 3610035,
+    "name": "Bomber",
+    "brand": "Urban Classics",
+    "color": "rot",
+    "price": 35.91,
+    "articleID": "UCL0013006000001",
+    "url": "https://www.aboutyou.de/p/urban-classics/bomber-3610035"
+  },
+  {
+    "id": 3782076,
+    "name": "\u0027Willbur\u0027",
+    "brand": "INDICODE JEANS",
+    "color": "schwarz",
+    "price": 21.9,
+    "articleID": "1029154342",
+    "url": "https://www.aboutyou.de/p/indicode-jeans/willbur-3782076"
+  },
+  {
+    "id": 3610032,
+    "name": "Bomber \u0027Light Bomber Jacket\u0027",
+    "brand": "Urban Classics",
+    "color": "grau",
+    "price": 27.9,
+    "articleID": "UCL0013005000001",
+    "url": "https://www.aboutyou.de/p/urban-classics/bomber-light-bomber-jacket-3610032"
+  },
+  {
+    "id": 3804594,
+    "name": "Sweatjacke",
+    "brand": "naketano",
+    "color": "grau",
+    "price": 79.9,
+    "articleID": "NAK1685015000001",
+    "url": "https://www.aboutyou.de/p/naketano/sweatjacke-3804594"
+  },
+  {
+    "id": 3914174,
+    "name": "T-Shirt \u0027TREFOIL\u0027",
+    "brand": "ADIDAS ORIGINALS",
+    "color": "weiss",
+    "price": 26.9,
+    "articleID": "ADT0421011000001",
+    "url": "https://www.aboutyou.de/p/adidas-originals/t-shirt-trefoil-3914174"
+  },
+  {
+    "id": 3782068,
+    "name": "\u0027Willbur\u0027",
+    "brand": "INDICODE JEANS",
+    "color": "grau",
+    "price": 21.9,
+    "articleID": "1029791442",
+    "url": "https://www.aboutyou.de/p/indicode-jeans/willbur-3782068"
+  },
+  {
+    "id": 4413910,
+    "name": "Shirt",
+    "brand": "TOM TAILOR",
+    "color": "grau",
+    "price": 17.99,
+    "articleID": "1014071031",
+    "url": "https://www.aboutyou.de/p/tom-tailor/shirt-4413910"
+  },
+  {
+    "id": 3782057,
+    "name": "\u0027Willbur\u0027",
+    "brand": "INDICODE JEANS",
+    "color": "blau",
+    "price": 21.9,
+    "articleID": "1030596476",
+    "url": "https://www.aboutyou.de/p/indicode-jeans/willbur-3782057"
+  },
+  {
+    "id": 3782063,
+    "name": "\u0027Willbur\u0027",
+    "brand": "INDICODE JEANS",
+    "color": "gruen",
+    "price": 21.9,
+    "articleID": "1030596482",
+    "url": "https://www.aboutyou.de/p/indicode-jeans/willbur-3782063"
+  },
+  {
+    "id": 4465108,
+    "name": "Mantel \u0027OSCAR WOOL COAT\u0027",
+    "brand": "Only \u0026 Sons",
+    "color": "gruen",
+    "price": 109.99,
+    "articleID": "5714495705344",
+    "url": "https://www.aboutyou.de/p/only-\u0026-sons/mantel-oscar-wool-coat-4465108"
+  },
+  {
+    "id": 4409812,
+    "name": "Longsleeve",
+    "brand": "TOM TAILOR",
+    "color": "braun",
+    "price": 17.94,
+    "articleID": "TOT5218002000005",
+    "url": "https://www.aboutyou.de/p/tom-tailor/longsleeve-4409812"
+  },
+  {
+    "id": 3814829,
+    "name": "Organic Cotton T-Shirt \u0027onsALBERT\u0027",
+    "brand": "Only \u0026 Sons",
+    "color": "gruen",
+    "price": 11.18,
+    "articleID": "ONS0402001000003",
+    "url": "https://www.aboutyou.de/p/only-\u0026-sons/organic-cotton-t-shirt-onsalbert-3814829"
+  },
+  {
+    "id": 3782050,
+    "name": "\u0027Willbur\u0027",
+    "brand": "INDICODE JEANS",
+    "color": "grau",
+    "price": 21.9,
+    "articleID": "1029154351",
+    "url": "https://www.aboutyou.de/p/indicode-jeans/willbur-3782050"
+  },
+  {
+    "id": 3782053,
+    "name": "\u0027Willbur\u0027",
+    "brand": "INDICODE JEANS",
+    "color": "grau",
+    "price": 21.9,
+    "articleID": "1029828714",
+    "url": "https://www.aboutyou.de/p/indicode-jeans/willbur-3782053"
+  },
+  {
+    "id": 4018589,
+    "name": "Winterjacke \u0027Elmhurts\u0027",
+    "brand": "INDICODE JEANS",
+    "color": "schwarz",
+    "price": 104.9,
+    "articleID": "1032889341",
+    "url": "https://www.aboutyou.de/p/indicode-jeans/winterjacke-elmhurts-4018589"
+  },
+  {
+    "id": 4115870,
+    "name": "Hoodie \u0027Trefoil\u0027",
+    "brand": "ADIDAS ORIGINALS",
+    "color": "rot",
+    "price": 69.9,
+    "articleID": "813124932",
+    "url": "https://www.aboutyou.de/p/adidas-originals/hoodie-trefoil-4115870"
+  },
+  {
+    "id": 4014489,
+    "name": "Blouson \u0027Adeline\u0027",
+    "brand": "INDICODE JEANS",
+    "color": "gruen",
+    "price": 109.9,
+    "articleID": "1033062129",
+    "url": "https://www.aboutyou.de/p/indicode-jeans/blouson-adeline-4014489"
+  },
+  {
+    "id": 4323805,
+    "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+    "brand": "naketano",
+    "color": "blau",
+    "price": 40.41,
+    "articleID": "NAK1275016000001",
+    "url": "https://www.aboutyou.de/p/naketano/sweatshirt-diese-nüsse-4323805"
+  },
+  {
+    "id": 3782040,
+    "name": "\u0027Willbur\u0027",
+    "brand": "INDICODE JEANS",
+    "color": "rot",
+    "price": 21.9,
+    "articleID": "1029154346",
+    "url": "https://www.aboutyou.de/p/indicode-jeans/willbur-3782040"
+  },
+  {
+    "id": 4018586,
+    "name": "Winterjacke \u0027Elmhurts\u0027",
+    "brand": "INDICODE JEANS",
+    "color": "blau",
+    "price": 104.9,
+    "articleID": "1032889331",
+    "url": "https://www.aboutyou.de/p/indicode-jeans/winterjacke-elmhurts-4018586"
+  },
+  {
+    "id": 4414954,
+    "name": "Shirt",
+    "brand": "TOMMY HILFIGER",
+    "color": "weiss",
+    "price": 39.9,
+    "articleID": "THS3380001000002",
+    "url": "https://www.aboutyou.de/p/tommy-hilfiger/shirt-4414954"
+  },
+  {
+    "id": 3782046,
+    "name": "\u0027Willbur\u0027",
+    "brand": "INDICODE JEANS",
+    "color": "grau",
+    "price": 21.9,
+    "articleID": "1029154358",
+    "url": "https://www.aboutyou.de/p/indicode-jeans/willbur-3782046"
+  },
+  {
+    "id": 3969429,
+    "name": "Boxershorts",
+    "brand": "Tommy Hilfiger Underwear",
+    "color": "blau",
+    "price": 39.9,
+    "articleID": "THU0030023000001",
+    "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/boxershorts-3969429"
+  },
+  {
+    "id": 3808658,
+    "name": "Hemd \u0027ALFREDO\u0027",
+    "brand": "Only \u0026 Sons",
+    "color": "schwarz",
+    "price": 26.91,
+    "articleID": "ONS0522004000003",
+    "url": "https://www.aboutyou.de/p/only-\u0026-sons/hemd-alfredo-3808658"
+  },
+  {
+    "id": 4018582,
+    "name": "Winterjacke \u0027Elmhurts\u0027",
+    "brand": "INDICODE JEANS",
+    "color": "gruen",
+    "price": 104.9,
+    "articleID": "1032889336",
+    "url": "https://www.aboutyou.de/p/indicode-jeans/winterjacke-elmhurts-4018582"
+  },
+  {
+    "id": 4439535,
+    "name": "Pullover \u0027FAME\u0027",
+    "brand": "JACK \u0026 JONES",
+    "color": "blau",
+    "price": 34.9,
+    "articleID": "JAC2294002000001",
+    "url": "https://www.aboutyou.de/p/jack-\u0026-jones/pullover-fame-4439535"
+  },
+  {
+    "id": 4439529,
+    "name": "Pullover \u0027FAME\u0027",
+    "brand": "JACK \u0026 JONES",
+    "color": "rot",
+    "price": 31.41,
+    "articleID": "5714491162608",
+    "url": "https://www.aboutyou.de/p/jack-\u0026-jones/pullover-fame-4439529"
+  },
+  {
+    "id": 4018578,
+    "name": "Winterjacke \u0027Elmhurts\u0027",
+    "brand": "INDICODE JEANS",
+    "color": "beige",
+    "price": 104.9,
+    "articleID": "1032889324",
+    "url": "https://www.aboutyou.de/p/indicode-jeans/winterjacke-elmhurts-4018578"
+  },
+  {
+    "id": 4409836,
+    "name": "Longsleeve",
+    "brand": "TOM TAILOR",
+    "color": "braun",
+    "price": 22.43,
+    "articleID": "TOT5218004000005",
+    "url": "https://www.aboutyou.de/p/tom-tailor/longsleeve-4409836"
+  },
+  {
+    "id": 4014477,
+    "name": "Bomberjacke \u0027Adeline\u0027",
+    "brand": "INDICODE JEANS",
+    "color": "blau",
+    "price": 109.9,
+    "articleID": "1033062123",
+    "url": "https://www.aboutyou.de/p/indicode-jeans/bomberjacke-adeline-4014477"
+  },
+  {
+    "id": 3559812,
+    "name": "Print-Shirt",
+    "brand": "ALPHA INDUSTRIES",
+    "color": "gruen",
+    "price": 17.9,
+    "articleID": "API0047006000001",
+    "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-3559812"
+  },
+  {
+    "id": 4014472,
+    "name": "Bomberjacke \u0027Adeline\u0027",
+    "brand": "INDICODE JEANS",
+    "color": "schwarz",
+    "price": 109.9,
+    "articleID": "1033062140",
+    "url": "https://www.aboutyou.de/p/indicode-jeans/bomberjacke-adeline-4014472"
+  },
+  {
+    "id": 3888522,
+    "name": "T-Shirt \u0027F#?KIT\u0027",
+    "brand": "Mister Tee",
+    "color": "schwarz",
+    "price": 19.47,
+    "articleID": "fail",
+    "url": "https://www.aboutyou.de/p/mister-tee/t-shirt-f#kit-3888522"
+  },
+  {
+    "id": 4409847,
+    "name": "Longsleeve",
+    "brand": "TOM TAILOR",
+    "color": "blau",
+    "price": 26.91,
+    "articleID": "TOT5218003000005",
+    "url": "https://www.aboutyou.de/p/tom-tailor/longsleeve-4409847"
+  },
+  {
+    "id": 4232696,
+    "name": "T-Shirt \u0027onsALBERT\u0027",
+    "brand": "Only \u0026 Sons",
+    "color": "gruen",
+    "price": 12.9,
+    "articleID": "ONS0402012000001",
+    "url": "https://www.aboutyou.de/p/only-\u0026-sons/t-shirt-onsalbert-4232696"
+  },
+  {
+    "id": 4438527,
+    "name": "Sweatshirt",
+    "brand": "Champion Authentic Athletic Apparel",
+    "color": "gruen",
+    "price": 53.91,
+    "articleID": "813208506",
+    "url": "https://www.aboutyou.de/p/champion-authentic-athletic-apparel/sweatshirt-4438527"
+  },
+  {
+    "id": 3888515,
+    "name": "T-Shirt \u0027F#?KIT\u0027",
+    "brand": "Mister Tee",
+    "color": "weiss",
+    "price": 16.11,
+    "articleID": "fail",
+    "url": "https://www.aboutyou.de/p/mister-tee/t-shirt-f#kit-3888515"
+  },
+  {
+    "id": 3903998,
+    "name": "Sweatshirt \u0027Pray Hoody\u0027",
+    "brand": "Mister Tee",
+    "color": "grau",
+    "price": 39.9,
+    "articleID": "MT275-00431-0058",
+    "url": "https://www.aboutyou.de/p/mister-tee/sweatshirt-pray-hoody-3903998"
+  },
+  {
+    "id": 3864063,
+    "name": "Boxershorts",
+    "brand": "Tommy Hilfiger Underwear",
+    "color": "blau",
+    "price": 29.9,
+    "articleID": "THU0030017000001",
+    "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/boxershorts-3864063"
+  },
+  {
+    "id": 4297095,
+    "name": "Shirt",
+    "brand": "Calvin Klein Jeans",
+    "color": "grau",
+    "price": 29.9,
+    "articleID": "CAL1288004000001",
+    "url": "https://www.aboutyou.de/p/calvin-klein-jeans/shirt-4297095"
+  },
+  {
+    "id": 3632639,
+    "name": "Bomber \u0027Light Bomber Jacket\u0027",
+    "brand": "Urban Classics",
+    "color": "gruen",
+    "price": 43.9,
+    "articleID": "TB1258-00176/S",
+    "url": "https://www.aboutyou.de/p/urban-classics/bomber-light-bomber-jacket-3632639"
+  },
+  {
+    "id": 4429189,
+    "name": "Shirt \u0027MONOGRAM RINGER\u0027",
+    "brand": "Calvin Klein Jeans",
+    "color": "schwarz",
+    "price": 29.9,
+    "articleID": "CAL1857001000001",
+    "url": "https://www.aboutyou.de/p/calvin-klein-jeans/shirt-monogram-ringer-4429189"
+  },
+  {
+    "id": 4319620,
+    "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+    "brand": "naketano",
+    "color": "gruen",
+    "price": 34.9,
+    "articleID": "NAK1275023000001",
+    "url": "https://www.aboutyou.de/p/naketano/sweatshirt-diese-nüsse-4319620"
+  },
+  {
+    "id": 3826173,
+    "name": "Hose",
+    "brand": "ADIDAS ORIGINALS",
+    "color": "schwarz",
+    "price": 53.91,
+    "articleID": "ADT0434001000001",
+    "url": "https://www.aboutyou.de/p/adidas-originals/hose-3826173"
+  },
+  {
+    "id": 3824115,
+    "name": "\u0027Willbur\u0027",
+    "brand": "INDICODE JEANS",
+    "color": "weiss",
+    "price": 21.9,
+    "articleID": "1029154336",
+    "url": "https://www.aboutyou.de/p/indicode-jeans/willbur-3824115"
+  },
+  {
+    "id": 4128229,
+    "name": "Shirt \u0027UMTEE-JAKE\u0027",
+    "brand": "DIESEL",
+    "color": "weiss",
+    "price": 33.92,
+    "articleID": "DIL0833003000001",
+    "url": "https://www.aboutyou.de/p/diesel/shirt-umtee-jake-4128229"
+  },
+  {
+    "id": 4001249,
+    "name": "Mantel \u0027onsOSCAR WOOL COAT\u0027",
+    "brand": "Only \u0026 Sons",
+    "color": "grau",
+    "price": 92.65,
+    "articleID": "ONS0600004000001",
+    "url": "https://www.aboutyou.de/p/only-\u0026-sons/mantel-onsoscar-wool-coat-4001249"
+  },
+  {
+    "id": 3941848,
+    "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+    "brand": "naketano",
+    "color": "grau",
+    "price": 31.41,
+    "articleID": "NAK1275018000001",
+    "url": "https://www.aboutyou.de/p/naketano/sweatshirt-diese-nüsse-3941848"
+  },
+  {
+    "id": 4436360,
+    "name": "Sweatshirt",
+    "brand": "Champion Authentic Athletic Apparel",
+    "color": "blau",
+    "price": 53.91,
+    "articleID": "813220217",
+    "url": "https://www.aboutyou.de/p/champion-authentic-athletic-apparel/sweatshirt-4436360"
+  },
+  {
+    "id": 4399535,
+    "name": "Shirt \u0027Theodore\u0027",
+    "brand": "Iriedaily",
+    "color": "mischfarben",
+    "price": 28.43,
+    "articleID": "IRD0578003000002",
+    "url": "https://www.aboutyou.de/p/iriedaily/shirt-theodore-4399535"
+  },
+  {
+    "id": 4006356,
+    "name": "Hoody \u0027Basic\u0027",
+    "brand": "ALPHA INDUSTRIES",
+    "color": "blau",
+    "price": 59.9,
+    "articleID": "API0091006000001",
+    "url": "https://www.aboutyou.de/p/alpha-industries/hoody-basic-4006356"
+  },
+  {
+    "id": 4240811,
+    "name": "T-Shirt \u0027Trefoil\u0027",
+    "brand": "ADIDAS ORIGINALS",
+    "color": "lila",
+    "price": 21.9,
+    "articleID": "532321010009",
+    "url": "https://www.aboutyou.de/p/adidas-originals/t-shirt-trefoil-4240811"
+  },
+  {
+    "id": 3857878,
+    "name": "Boxershorts \u0027Trunk\u0027",
+    "brand": "Tommy Hilfiger Underwear",
+    "color": "blau",
+    "price": 27.9,
+    "articleID": "THU0030016000001",
+    "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/boxershorts-trunk-3857878"
+  },
+  {
+    "id": 3808727,
+    "name": "Sweatjacke",
+    "brand": "naketano",
+    "color": "blau",
+    "price": 71.91,
+    "articleID": "NAK1685008000001",
+    "url": "https://www.aboutyou.de/p/naketano/sweatjacke-3808727"
+  },
+  {
+    "id": 4042191,
+    "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+    "brand": "naketano",
+    "color": "blau",
+    "price": 38.17,
+    "articleID": "NAK1275013000003",
+    "url": "https://www.aboutyou.de/p/naketano/sweatshirt-diese-nüsse-4042191"
+  },
+  {
+    "id": 4396473,
+    "name": "Shirt",
+    "brand": "s.Oliver",
+    "color": "blau",
+    "price": 12.72,
+    "articleID": "SOV2275004000001",
+    "url": "https://www.aboutyou.de/p/s.oliver/shirt-4396473"
+  },
+  {
+    "id": 4347317,
+    "name": "Pullover \u0027JORFLASH KNIT CREW NECK\u0027",
+    "brand": "JACK \u0026 JONES",
+    "color": "blau",
+    "price": 29.99,
+    "articleID": "5714490217514",
+    "url": "https://www.aboutyou.de/p/jack-\u0026-jones/pullover-jorflash-knit-crew-neck-4347317"
+  },
+  {
+    "id": 4042185,
+    "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+    "brand": "naketano",
+    "color": "gruen",
+    "price": 40.41,
+    "articleID": "NAK1275014000001",
+    "url": "https://www.aboutyou.de/p/naketano/sweatshirt-diese-nüsse-4042185"
+  },
+  {
+    "id": 4203962,
+    "name": "Sweatshirt",
+    "brand": "BRAVE SOUL",
+    "color": "gruen",
+    "price": 13.52,
+    "articleID": "BRA0025001000001",
+    "url": "https://www.aboutyou.de/p/brave-soul/sweatshirt-4203962"
+  },
+  {
+    "id": 3953215,
+    "name": "Sweatjacke",
+    "brand": "naketano",
+    "color": "blau",
+    "price": 79.9,
+    "articleID": "NAK1685013000001",
+    "url": "https://www.aboutyou.de/p/naketano/sweatjacke-3953215"
+  },
+  {
+    "id": 4347326,
+    "name": "Pullover",
+    "brand": "JACK \u0026 JONES",
+    "color": "blau",
+    "price": 29.99,
+    "articleID": "5714490217538",
+    "url": "https://www.aboutyou.de/p/jack-\u0026-jones/pullover-4347326"
+  },
+  {
+    "id": 4361793,
+    "name": "Shirt \u0027ORIG ARCH T\u0027",
+    "brand": "GAP",
+    "color": "blau",
+    "price": 22.46,
+    "articleID": "GAP2174004000001",
+    "url": "https://www.aboutyou.de/p/gap/shirt-orig-arch-t-4361793"
+  },
+  {
+    "id": 4454981,
+    "name": "Pullover \u0027FG CORE CREW 1CC\u0027",
+    "brand": "HOLLISTER",
+    "color": "schwarz",
+    "price": 35.91,
+    "articleID": "HOL1012001000001",
+    "url": "https://www.aboutyou.de/p/hollister/pullover-fg-core-crew-1cc-4454981"
+  },
+  {
+    "id": 4429406,
+    "name": "T-Shirt",
+    "brand": "TOM TAILOR",
+    "color": "blau",
+    "price": 7.74,
+    "articleID": "TOT5251001000005",
+    "url": "https://www.aboutyou.de/p/tom-tailor/t-shirt-4429406"
+  },
+  {
+    "id": 4361797,
+    "name": "Shirt \u0027ORIG ARCH T\u0027",
+    "brand": "GAP",
+    "color": "grau",
+    "price": 22.46,
+    "articleID": "GAP2174001000001",
+    "url": "https://www.aboutyou.de/p/gap/shirt-orig-arch-t-4361797"
+  },
+  {
+    "id": 4174379,
+    "name": "Sweatshirt",
+    "brand": "ALPHA INDUSTRIES",
+    "color": "grau",
+    "price": 49.9,
+    "articleID": "API0091009000001",
+    "url": "https://www.aboutyou.de/p/alpha-industries/sweatshirt-4174379"
+  },
+  {
+    "id": 3968559,
+    "name": "Hemd \u0027GUDMUND\u0027",
+    "brand": "Only \u0026 Sons",
+    "color": "gruen",
+    "price": 24.9,
+    "articleID": "ONS0333005000001",
+    "url": "https://www.aboutyou.de/p/only-\u0026-sons/hemd-gudmund-3968559"
+  },
+  {
+    "id": 3968545,
+    "name": "Hemd \u0027GUDMUND\u0027",
+    "brand": "Only \u0026 Sons",
+    "color": "blau",
+    "price": 22.41,
+    "articleID": "ONS0333004000001",
+    "url": "https://www.aboutyou.de/p/only-\u0026-sons/hemd-gudmund-3968545"
+  },
+  {
+    "id": 3868177,
+    "name": "T-Shirt \u0027CANALETTO\u0027",
+    "brand": "ELLESSE",
+    "color": "blau",
+    "price": 18.68,
+    "articleID": "ELS0074005000006",
+    "url": "https://www.aboutyou.de/p/ellesse/t-shirt-canaletto-3868177"
+  },
+  {
+    "id": 3998229,
+    "name": "T-Shirt \u0027Core Institutional Logo Slim Tee\u0027",
+    "brand": "Calvin Klein Jeans",
+    "color": "schwarz",
+    "price": 29.9,
+    "articleID": "CAL1288001000004",
+    "url": "https://www.aboutyou.de/p/calvin-klein-jeans/t-shirt-core-institutional-logo-slim-tee-3998229"
+  },
+  {
+    "id": 4286044,
+    "name": "Shirt \u0027ORIGHMVNECK\u0027",
+    "brand": "LEVI\u0027S",
+    "color": "weiss",
+    "price": 17.91,
+    "articleID": "LEV0664001000001",
+    "url": "https://www.aboutyou.de/p/levis/shirt-orighmvneck-4286044"
+  },
+  {
+    "id": 3968536,
+    "name": "Casual Hemd \u0027onsGUDMUND\u0027",
+    "brand": "Only \u0026 Sons",
+    "color": "grau",
+    "price": 22.41,
+    "articleID": "ONS0333007000001",
+    "url": "https://www.aboutyou.de/p/only-\u0026-sons/casual-hemd-onsgudmund-3968536"
+  },
+  {
+    "id": 3904017,
+    "name": "T-Shirt \u0027Pray\u0027",
+    "brand": "Mister Tee",
+    "color": "grau",
+    "price": 20.61,
+    "articleID": "MT157-00091-0058",
+    "url": "https://www.aboutyou.de/p/mister-tee/t-shirt-pray-3904017"
+  },
+  {
+    "id": 3904023,
+    "name": "T-Shirt \u0027Pray\u0027",
+    "brand": "Mister Tee",
+    "color": "rot",
+    "price": 20.61,
+    "articleID": "MT157-00207-0058",
+    "url": "https://www.aboutyou.de/p/mister-tee/t-shirt-pray-3904023"
+  },
+  {
+    "id": 3568134,
+    "name": "Print-Shirt",
+    "brand": "ALPHA INDUSTRIES",
+    "color": "schwarz",
+    "price": 19.9,
+    "articleID": "API0047001001000",
+    "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-3568134"
+  },
+  {
+    "id": 4146701,
+    "name": "T-Shirt \u0027Prado\u0027",
+    "brand": "ELLESSE",
+    "color": "blau",
+    "price": 21.9,
+    "articleID": "ELS0032016000001",
+    "url": "https://www.aboutyou.de/p/ellesse/t-shirt-prado-4146701"
+  },
+  {
+    "id": 3653123,
+    "name": "T-Shirt \u0027Prado\u0027",
+    "brand": "ELLESSE",
+    "color": "schwarz",
+    "price": 18.68,
+    "articleID": "ELS0032003000006",
+    "url": "https://www.aboutyou.de/p/ellesse/t-shirt-prado-3653123"
+  },
+  {
+    "id": 3557888,
+    "name": "Print-Shirt",
+    "brand": "ALPHA INDUSTRIES",
+    "color": "gruen",
+    "price": 19.9,
+    "articleID": "API0047005000003",
+    "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-3557888"
+  },
+  {
+    "id": 4146695,
+    "name": "T-Shirt \u0027CANALETTO\u0027",
+    "brand": "ELLESSE",
+    "color": "gruen",
+    "price": 21.9,
+    "articleID": "ELS0074010000001",
+    "url": "https://www.aboutyou.de/p/ellesse/t-shirt-canaletto-4146695"
+  },
+  {
+    "id": 3998218,
+    "name": "T-Shirt \u0027Core Institutional Logo Slim Tee\u0027",
+    "brand": "Calvin Klein Jeans",
+    "color": "weiss",
+    "price": 29.9,
+    "articleID": "CAL1288002000001",
+    "url": "https://www.aboutyou.de/p/calvin-klein-jeans/t-shirt-core-institutional-logo-slim-tee-3998218"
+  },
+  {
+    "id": 4395643,
+    "name": "T-Shirt",
+    "brand": "CAMP DAVID",
+    "color": "blau",
+    "price": 23.94,
+    "articleID": "CPD0065002000001",
+    "url": "https://www.aboutyou.de/p/camp-david/t-shirt-4395643"
+  },
+  {
+    "id": 4204153,
+    "name": "Hoodie \u0027Trefoil\u0027",
+    "brand": "ADIDAS ORIGINALS",
+    "color": "lila",
+    "price": 49.9,
+    "articleID": "DV1503-290",
+    "url": "https://www.aboutyou.de/p/adidas-originals/hoodie-trefoil-4204153"
+  },
+  {
+    "id": 4413054,
+    "name": "Shirt",
+    "brand": "TOM TAILOR",
+    "color": "weiss",
+    "price": 10.74,
+    "articleID": "TOT5253002000005",
+    "url": "https://www.aboutyou.de/p/tom-tailor/shirt-4413054"
+  },
+  {
+    "id": 4332158,
+    "name": "Print-Shirt",
+    "brand": "ALPHA INDUSTRIES",
+    "color": "lila",
+    "price": 19.9,
+    "articleID": "API0047027000001",
+    "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-4332158"
+  },
+  {
+    "id": 4473470,
+    "name": "Mantel \u0027onsOSCAR WOOL COAT\u0027",
+    "brand": "Only \u0026 Sons",
+    "color": "blau",
+    "price": 109.0,
+    "articleID": "ONS0600006000001",
+    "url": "https://www.aboutyou.de/p/only-\u0026-sons/mantel-onsoscar-wool-coat-4473470"
+  },
+  {
+    "id": 3557896,
+    "name": "Print-Shirt",
+    "brand": "ALPHA INDUSTRIES",
+    "color": "rot",
+    "price": 19.9,
+    "articleID": "API0047007000003",
+    "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-3557896"
+  },
+  {
+    "id": 4363779,
+    "name": "Shirt \u0027ARCH\u0027",
+    "brand": "GAP",
+    "color": "schwarz",
+    "price": 22.46,
+    "articleID": "GAP2174008000001",
+    "url": "https://www.aboutyou.de/p/gap/shirt-arch-4363779"
+  },
+  {
+    "id": 3693178,
+    "name": "T-Shirt",
+    "brand": "LEVI\u0027S",
+    "color": "blau",
+    "price": 21.17,
+    "articleID": "LEV0013004000006",
+    "url": "https://www.aboutyou.de/p/levis/t-shirt-3693178"
+  },
+  {
+    "id": 3831416,
+    "name": "T-Shirt \u0027PRADO\u0027",
+    "brand": "ELLESSE",
+    "color": "beige",
+    "price": 21.9,
+    "articleID": "ELS0032011000001",
+    "url": "https://www.aboutyou.de/p/ellesse/t-shirt-prado-3831416"
+  },
+  {
+    "id": 4409857,
+    "name": "Longsleeve",
+    "brand": "TOM TAILOR",
+    "color": "blau",
+    "price": 25.42,
+    "articleID": "TOT5218001000005",
+    "url": "https://www.aboutyou.de/p/tom-tailor/longsleeve-4409857"
+  },
+  {
+    "id": 4232707,
+    "name": "T-Shirt \u0027onsALBERT\u0027",
+    "brand": "Only \u0026 Sons",
+    "color": "blau",
+    "price": 14.99,
+    "articleID": "5713757644414",
+    "url": "https://www.aboutyou.de/p/only-\u0026-sons/t-shirt-onsalbert-4232707"
+  },
+  {
+    "id": 4174454,
+    "name": "Hoody \u0027Basic\u0027",
+    "brand": "ALPHA INDUSTRIES",
+    "color": "gruen",
+    "price": 79.9,
+    "articleID": "2186565",
+    "url": "https://www.aboutyou.de/p/alpha-industries/hoody-basic-4174454"
+  },
+  {
+    "id": 3446375,
+    "name": "Jeans \u0027JJIGLENN JJFELIX AM 046 LID NOOS\u0027",
+    "brand": "JACK \u0026 JONES",
+    "color": "schwarz",
+    "price": 53.91,
+    "articleID": "5713232323971",
+    "url": "https://www.aboutyou.de/p/jack-\u0026-jones/jeans-jjiglenn-jjfelix-am-046-lid-noos-3446375"
+  },
+  {
+    "id": 4135532,
+    "name": "Hoodie \u0027Trefoil\u0027",
+    "brand": "ADIDAS ORIGINALS",
+    "color": "weiss",
+    "price": 54.9,
+    "articleID": "ADT0693005000001",
+    "url": "https://www.aboutyou.de/p/adidas-originals/hoodie-trefoil-4135532"
+  },
+  {
+    "id": 3444320,
+    "name": "Print-Shirt",
+    "brand": "ALPHA INDUSTRIES",
+    "color": "blau",
+    "price": 19.9,
+    "articleID": "API0047004005000",
+    "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-3444320"
+  },
+  {
+    "id": 3888751,
+    "name": "Sweatshirt \u0027Pray Hoody\u0027",
+    "brand": "Mister Tee",
+    "color": "gruen",
+    "price": 35.91,
+    "articleID": "MT275-00176-0058",
+    "url": "https://www.aboutyou.de/p/mister-tee/sweatshirt-pray-hoody-3888751"
+  },
+  {
+    "id": 4363798,
+    "name": "Shirt \u0027ARCH\u0027",
+    "brand": "GAP",
+    "color": "gruen",
+    "price": 22.46,
+    "articleID": "GAP2174003000001",
+    "url": "https://www.aboutyou.de/p/gap/shirt-arch-4363798"
+  },
+  {
+    "id": 3888749,
+    "name": "Sweatshirt \u0027Pray Hoody\u0027",
+    "brand": "Mister Tee",
+    "color": "rot",
+    "price": 33.92,
+    "articleID": "MRC0025003000001",
+    "url": "https://www.aboutyou.de/p/mister-tee/sweatshirt-pray-hoody-3888749"
+  },
+  {
+    "id": 3888750,
+    "name": "Sweatshirt \u0027Pray Hoody\u0027",
+    "brand": "Mister Tee",
+    "color": "schwarz",
+    "price": 29.93,
+    "articleID": "MRC0025001000002",
+    "url": "https://www.aboutyou.de/p/mister-tee/sweatshirt-pray-hoody-3888750"
+  },
+  {
+    "id": 3866202,
+    "name": "T-Shirt \u0027Canaletto\u0027",
+    "brand": "ELLESSE",
+    "color": "grau",
+    "price": 24.9,
+    "articleID": "ELS0074006000006",
+    "url": "https://www.aboutyou.de/p/ellesse/t-shirt-canaletto-3866202"
+  },
+  {
+    "id": 4363803,
+    "name": "Shirt \u0027ARCH\u0027",
+    "brand": "GAP",
+    "color": "blau",
+    "price": 22.46,
+    "articleID": "GAP2174007000001",
+    "url": "https://www.aboutyou.de/p/gap/shirt-arch-4363803"
+  },
+  {
+    "id": 3634774,
+    "name": "Print-Shirta",
+    "brand": "ALPHA INDUSTRIES",
+    "color": "schwarz",
+    "price": 19.9,
+    "articleID": "API0047012000001",
+    "url": "https://www.aboutyou.de/p/alpha-industries/print-shirta-3634774"
+  },
+  {
+    "id": 3866200,
+    "name": "T-Shirt  \u0027Canaletto\u0027",
+    "brand": "ELLESSE",
+    "color": "schwarz",
+    "price": 24.9,
+    "articleID": "ELS0074004000006",
+    "url": "https://www.aboutyou.de/p/ellesse/t-shirt-canaletto-3866200"
+  },
+  {
+    "id": 4301346,
+    "name": "Shirt",
+    "brand": "TOM TAILOR DENIM",
+    "color": "blau",
+    "price": 14.31,
+    "articleID": "TTD2784001000006",
+    "url": "https://www.aboutyou.de/p/tom-tailor-denim/shirt-4301346"
+  },
+  {
+    "id": 3953240,
+    "name": "Sweatjacke",
+    "brand": "naketano",
+    "color": "grau",
+    "price": 63.92,
+    "articleID": "NAK1685012000001",
+    "url": "https://www.aboutyou.de/p/naketano/sweatjacke-3953240"
+  },
+  {
+    "id": 3634770,
+    "name": "Print-Shirt",
+    "brand": "ALPHA INDUSTRIES",
+    "color": "blau",
+    "price": 16.92,
+    "articleID": "API0047013000001",
+    "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-3634770"
+  },
+  {
+    "id": 3634783,
+    "name": "Print-Shirt",
+    "brand": "ALPHA INDUSTRIES",
+    "color": "grau",
+    "price": 19.9,
+    "articleID": "API0047009000001",
+    "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-3634783"
+  },
+  {
+    "id": 3782239,
+    "name": "Sweatjacke \u0027Schwarzkopf\u0027",
+    "brand": "naketano",
+    "color": "grau",
+    "price": 71.91,
+    "articleID": "NAK1685005000001",
+    "url": "https://www.aboutyou.de/p/naketano/sweatjacke-schwarzkopf-3782239"
+  },
+  {
+    "id": 4301359,
+    "name": "T-Shirt",
+    "brand": "TOM TAILOR DENIM",
+    "color": "gruen",
+    "price": 15.99,
+    "articleID": "1011972005",
+    "url": "https://www.aboutyou.de/p/tom-tailor-denim/t-shirt-4301359"
+  },
+  {
+    "id": 3866199,
+    "name": "T-Shirt  \u0027Canaletto\u0027",
+    "brand": "ELLESSE",
+    "color": "weiss",
+    "price": 18.68,
+    "articleID": "ELS0074007000006",
+    "url": "https://www.aboutyou.de/p/ellesse/t-shirt-canaletto-3866199"
+  },
+  {
+    "id": 3953233,
+    "name": "Sweatjacke",
+    "brand": "naketano",
+    "color": "grau",
+    "price": 71.91,
+    "articleID": "NAK1685007000001",
+    "url": "https://www.aboutyou.de/p/naketano/sweatjacke-3953233"
+  },
+  {
+    "id": 4361783,
+    "name": "Shirt \u0027ORIG ARCH T\u0027",
+    "brand": "GAP",
+    "color": "gelb",
+    "price": 22.46,
+    "articleID": "GAP2174002000002",
+    "url": "https://www.aboutyou.de/p/gap/shirt-orig-arch-t-4361783"
+  },
+  {
+    "id": 3534402,
+    "name": "T-Shirt",
+    "brand": "LEVI\u0027S",
+    "color": "schwarz",
+    "price": 21.17,
+    "articleID": "LEV0013003005001",
+    "url": "https://www.aboutyou.de/p/levis/t-shirt-3534402"
+  },
+  {
+    "id": 4346426,
+    "name": "Sweatshirt \u0027LOCK UP  HOODY\u0027",
+    "brand": "ADIDAS ORIGINALS",
+    "color": "blau",
+    "price": 53.96,
+    "articleID": "ADT1329001000001",
+    "url": "https://www.aboutyou.de/p/adidas-originals/sweatshirt-lock-up-hoody-4346426"
+  },
+  {
+    "id": 3653195,
+    "name": "Hoody \u0027Basic\u0027",
+    "brand": "ALPHA INDUSTRIES",
+    "color": "grau",
+    "price": 59.9,
+    "articleID": "276805012",
+    "url": "https://www.aboutyou.de/p/alpha-industries/hoody-basic-3653195"
+  },
+  {
+    "id": 4361786,
+    "name": "Shirt \u0027ORIG ARCH T\u0027",
+    "brand": "GAP",
+    "color": "rot",
+    "price": 21.21,
+    "articleID": "GAP2174006000001",
+    "url": "https://www.aboutyou.de/p/gap/shirt-orig-arch-t-4361786"
+  },
+  {
+    "id": 3953222,
+    "name": "Sweatjacke",
+    "brand": "naketano",
+    "color": "gruen",
+    "price": 71.91,
+    "articleID": "NAK1685014000001",
+    "url": "https://www.aboutyou.de/p/naketano/sweatjacke-3953222"
+  },
+  {
+    "id": 4410941,
+    "name": "Shirt",
+    "brand": "CAMP DAVID",
+    "color": "grau",
+    "price": 34.11,
+    "articleID": "I00043468BLA0461M",
+    "url": "https://www.aboutyou.de/p/camp-david/shirt-4410941"
+  },
+  {
+    "id": 3653194,
+    "name": "Hoody \u0027Basic Hoody\u0027",
+    "brand": "ALPHA INDUSTRIES",
+    "color": "schwarz",
+    "price": 56.91,
+    "articleID": "API0091001000002",
+    "url": "https://www.aboutyou.de/p/alpha-industries/hoody-basic-hoody-3653194"
+  },
+  {
+    "id": 3532468,
+    "name": "Bomber \u0027Light Bomber Jacket\u0027",
+    "brand": "Urban Classics",
+    "color": "blau",
+    "price": 39.9,
+    "articleID": "UCL0013002000001",
+    "url": "https://www.aboutyou.de/p/urban-classics/bomber-light-bomber-jacket-3532468"
+  },
+  {
+    "id": 4346428,
+    "name": "Hemd \u0027GUDMUND\u0027",
+    "brand": "Only \u0026 Sons",
+    "color": "gelb",
+    "price": 22.41,
+    "articleID": "ONS0333008000001",
+    "url": "https://www.aboutyou.de/p/only-\u0026-sons/hemd-gudmund-4346428"
+  },
+  {
+    "id": 3532470,
+    "name": "Bomber \u0027Light Bomber Jacket\u0027",
+    "brand": "Urban Classics",
+    "color": "schwarz",
+    "price": 35.91,
+    "articleID": "UCL0013001000001",
+    "url": "https://www.aboutyou.de/p/urban-classics/bomber-light-bomber-jacket-3532470"
+  },
+  {
+    "id": 4348611,
+    "name": "Langarmhemd \u0027onsGUDMUND\u0027",
+    "brand": "Only \u0026 Sons",
+    "color": "gruen",
+    "price": 24.99,
+    "articleID": "5713776889308",
+    "url": "https://www.aboutyou.de/p/only-\u0026-sons/langarmhemd-onsgudmund-4348611"
+  },
+  {
+    "id": 4476609,
+    "name": "Shirt \u0027onsALBERT\u0027",
+    "brand": "Only \u0026 Sons",
+    "color": "blau",
+    "price": 14.99,
+    "articleID": "5714493902301",
+    "url": "https://www.aboutyou.de/p/only-\u0026-sons/shirt-onsalbert-4476609"
+  },
+  {
+    "id": 4334286,
+    "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+    "brand": "naketano",
+    "color": "beige",
+    "price": 31.41,
+    "articleID": "NAK1275029000001",
+    "url": "https://www.aboutyou.de/p/naketano/sweatshirt-diese-nüsse-4334286"
+  },
+  {
+    "id": 4408012,
+    "name": "T-Shirt",
+    "brand": "COLUMBIA",
+    "color": "rot",
+    "price": 16.74,
+    "articleID": "COB0117004000001",
+    "url": "https://www.aboutyou.de/p/columbia/t-shirt-4408012"
+  },
+  {
+    "id": 4334276,
+    "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+    "brand": "naketano",
+    "color": "grau",
+    "price": 31.41,
+    "articleID": "NAK1275028000001",
+    "url": "https://www.aboutyou.de/p/naketano/sweatshirt-diese-nüsse-4334276"
+  },
+  {
+    "id": 4351703,
+    "name": "Pullover",
+    "brand": "Petrol Industries",
+    "color": "grau",
+    "price": 50.92,
+    "articleID": "PES0112002000001",
+    "url": "https://www.aboutyou.de/p/petrol-industries/pullover-4351703"
+  },
+  {
+    "id": 2191025,
+    "name": "Print-Shirt",
+    "brand": "ALPHA INDUSTRIES",
+    "color": "weiss",
+    "price": 19.9,
+    "articleID": "API0047002001000",
+    "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-2191025"
+  },
+  {
+    "id": 3814069,
+    "name": "Organic Cotton T-Shirt \u0027onsALBERT\u0027",
+    "brand": "Only \u0026 Sons",
+    "color": "grau",
+    "price": 13.41,
+    "articleID": "5713722571035",
+    "url": "https://www.aboutyou.de/p/only-\u0026-sons/organic-cotton-t-shirt-onsalbert-3814069"
+  },
+  {
+    "id": 4372178,
+    "name": "Shirt",
+    "brand": "s.Oliver",
+    "color": "orange",
+    "price": 15.99,
+    "articleID": "13.908.32.4292_2900M",
+    "url": "https://www.aboutyou.de/p/s.oliver/shirt-4372178"
+  },
+  {
+    "id": 4037290,
+    "name": "Sweatjacke",
+    "brand": "naketano",
+    "color": "gruen",
+    "price": 71.91,
+    "articleID": "NAK1685009000001",
+    "url": "https://www.aboutyou.de/p/naketano/sweatjacke-4037290"
+  },
+  {
+    "id": 4174501,
+    "name": "Hoody \u0027Basic\u0027",
+    "brand": "ALPHA INDUSTRIES",
+    "color": "orange",
+    "price": 79.9,
+    "articleID": "2518474",
+    "url": "https://www.aboutyou.de/p/alpha-industries/hoody-basic-4174501"
+  },
+  {
+    "id": 4363997,
+    "name": "Shirt",
+    "brand": "ADIDAS ORIGINALS",
+    "color": "schwarz",
+    "price": 24.68,
+    "articleID": "ADT1228001000001",
+    "url": "https://www.aboutyou.de/p/adidas-originals/shirt-4363997"
+  },
+  {
+    "id": 3833509,
+    "name": "Boxershorts \u0027Trunk\u0027 (3er Pack)",
+    "brand": "Tommy Hilfiger Underwear",
+    "color": "blau",
+    "price": 34.9,
+    "articleID": "THU0030015000001",
+    "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/boxershorts-trunk-(3er-pack)-3833509"
+  },
+  {
+    "id": 3956382,
+    "name": "Strickpullover \u0027Feuerkralle\u0027",
+    "brand": "naketano",
+    "color": "gruen",
+    "price": 44.9,
+    "articleID": "NAK1389001000001",
+    "url": "https://www.aboutyou.de/p/naketano/strickpullover-feuerkralle-3956382"
+  },
+  {
+    "id": 4156060,
+    "name": "Hoody \u0027Basic\u0027",
+    "brand": "ALPHA INDUSTRIES",
+    "color": "gruen",
+    "price": 56.91,
+    "articleID": "API0091004000004",
+    "url": "https://www.aboutyou.de/p/alpha-industries/hoody-basic-4156060"
+  },
+  {
+    "id": 4386534,
+    "name": "Sweatshirt",
+    "brand": "Champion Authentic Athletic Apparel",
+    "color": "rot",
+    "price": 41.93,
+    "articleID": "CHP0322005000001",
+    "url": "https://www.aboutyou.de/p/champion-authentic-athletic-apparel/sweatshirt-4386534"
+  },
+  {
+    "id": 4399844,
+    "name": "Shirt \u0027ORIG ARCH T\u0027",
+    "brand": "GAP",
+    "color": "weiss",
+    "price": 16.74,
+    "articleID": "GAP2174005000001",
+    "url": "https://www.aboutyou.de/p/gap/shirt-orig-arch-t-4399844"
+  },
+  {
+    "id": 4401895,
+    "name": "Shirt \u0027DENNIS SOLID SS TEE\u0027",
+    "brand": "FARAH",
+    "color": "blau",
+    "price": 26.91,
+    "articleID": "FAR0062002000002",
+    "url": "https://www.aboutyou.de/p/farah/shirt-dennis-solid-ss-tee-4401895"
+  },
+  {
+    "id": 3665552,
+    "name": "T-Shirt \u0027Prado\u0027",
+    "brand": "ELLESSE",
+    "color": "blau",
+    "price": 18.68,
+    "articleID": "ELS0032004000006",
+    "url": "https://www.aboutyou.de/p/ellesse/t-shirt-prado-3665552"
+  },
+  {
+    "id": 4401899,
+    "name": "Shirt \u0027DENNIS SOLID SS TEE\u0027",
+    "brand": "FARAH",
+    "color": "gruen",
+    "price": 20.93,
+    "articleID": "FAR0062003000001",
+    "url": "https://www.aboutyou.de/p/farah/shirt-dennis-solid-ss-tee-4401899"
+  },
+  {
+    "id": 4377322,
+    "name": "Sweatshirt",
+    "brand": "Tommy Jeans",
+    "color": "schwarz",
+    "price": 94.91,
+    "articleID": "337999006",
+    "url": "https://www.aboutyou.de/p/tommy-jeans/sweatshirt-4377322"
+  },
+  {
+    "id": 3782289,
+    "name": "\u0027Willbur\u0027",
+    "brand": "INDICODE JEANS",
+    "color": "blau",
+    "price": 21.9,
+    "articleID": "1030907806",
+    "url": "https://www.aboutyou.de/p/indicode-jeans/willbur-3782289"
+  },
+  {
+    "id": 4401900,
+    "name": "Shirt \u0027DENNIS SOLID SS TEE\u0027",
+    "brand": "FARAH",
+    "color": "schwarz",
+    "price": 26.91,
+    "articleID": "FAR0062001000002",
+    "url": "https://www.aboutyou.de/p/farah/shirt-dennis-solid-ss-tee-4401900"
+  },
+  {
+    "id": 4370167,
+    "name": "Pullover",
+    "brand": "Petrol Industries",
+    "color": "rot",
+    "price": 52.97,
+    "articleID": "8720056109329",
+    "url": "https://www.aboutyou.de/p/petrol-industries/pullover-4370167"
+  },
+  {
+    "id": 3431042,
+    "name": "T-Shirt",
+    "brand": "LEVI\u0027S",
+    "color": "grau",
+    "price": 22.41,
+    "articleID": "LEV0013001006001",
+    "url": "https://www.aboutyou.de/p/levis/t-shirt-3431042"
+  },
+  {
+    "id": 4351736,
+    "name": "Pullover",
+    "brand": "Petrol Industries",
+    "color": "blau",
+    "price": 50.92,
+    "articleID": "PES0112001000001",
+    "url": "https://www.aboutyou.de/p/petrol-industries/pullover-4351736"
+  },
+  {
+    "id": 4300535,
+    "name": "Sweatshirt \u0027SMALL LOGO GOTTERO\u0027",
+    "brand": "ELLESSE",
+    "color": "grau",
+    "price": 44.9,
+    "articleID": "ELS0467004000001",
+    "url": "https://www.aboutyou.de/p/ellesse/sweatshirt-small-logo-gottero-4300535"
+  },
+  {
+    "id": 3431043,
+    "name": "T-Shirt",
+    "brand": "LEVI\u0027S",
+    "color": "weiss",
+    "price": 22.41,
+    "articleID": "LEV0013002001000",
+    "url": "https://www.aboutyou.de/p/levis/t-shirt-3431043"
+  },
+  {
+    "id": 4301563,
+    "name": "T-Shirt \u0027ORIGHMVNECK\u0027",
+    "brand": "LEVI\u0027S",
+    "color": "rot",
+    "price": 17.91,
+    "articleID": "LEV0664005000001",
+    "url": "https://www.aboutyou.de/p/levis/t-shirt-orighmvneck-4301563"
+  },
+  {
+    "id": 4300538,
+    "name": "Hoodie \u0027Gottero\u0027",
+    "brand": "ELLESSE",
+    "color": "blau",
+    "price": 42.66,
+    "articleID": "332338024",
+    "url": "https://www.aboutyou.de/p/ellesse/hoodie-gottero-4300538"
+  },
+  {
+    "id": 3665545,
+    "name": "T-Shirt \u0027Prado\u0027",
+    "brand": "ELLESSE",
+    "color": "weiss",
+    "price": 18.68,
+    "articleID": "ELS0032001000006",
+    "url": "https://www.aboutyou.de/p/ellesse/t-shirt-prado-3665545"
+  },
+  {
+    "id": 3977859,
+    "name": "Blouson \u0027Marlon\u0027",
+    "brand": "INDICODE JEANS",
+    "color": "braun",
+    "price": 109.9,
+    "articleID": "1032675577",
+    "url": "https://www.aboutyou.de/p/indicode-jeans/blouson-marlon-3977859"
+  },
+  {
+    "id": 4300542,
+    "name": "Sweatshirt \u0027SMALL LOGO GOTTERO\u0027",
+    "brand": "ELLESSE",
+    "color": "grau",
+    "price": 42.66,
+    "articleID": "332338009",
+    "url": "https://www.aboutyou.de/p/ellesse/sweatshirt-small-logo-gottero-4300542"
+  },
+  {
+    "id": 4301565,
+    "name": "T-Shirt \u0027ORIGHMVNECK\u0027",
+    "brand": "LEVI\u0027S",
+    "color": "blau",
+    "price": 17.91,
+    "articleID": "LEV0664003000001",
+    "url": "https://www.aboutyou.de/p/levis/t-shirt-orighmvneck-4301565"
+  },
+  {
+    "id": 4307587,
+    "name": "Shirt \u0027MT MOUSTACHE\u0027",
+    "brand": "Key Largo",
+    "color": "weiss",
+    "price": 21.51,
+    "articleID": "KYL0473002000001",
+    "url": "https://www.aboutyou.de/p/key-largo/shirt-mt-moustache-4307587"
+  },
+  {
+    "id": 4396673,
+    "name": "Hemd",
+    "brand": "s.Oliver",
+    "color": "blau",
+    "price": 35.99,
+    "articleID": "13.908.21.7671_01N7M",
+    "url": "https://www.aboutyou.de/p/s.oliver/hemd-4396673"
+  },
+  {
+    "id": 3938047,
+    "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+    "brand": "naketano",
+    "color": "rot",
+    "price": 34.9,
+    "articleID": "NAK1275007000001",
+    "url": "https://www.aboutyou.de/p/naketano/sweatshirt-diese-nüsse-3938047"
+  },
+  {
+    "id": 3686141,
+    "name": "Jeans \u0027JJIGLENN JJFELIX AM 458 PCW SPS NOOS\u0027",
+    "brand": "JACK \u0026 JONES",
+    "color": "schwarz",
+    "price": 69.99,
+    "articleID": "5713615637169",
+    "url": "https://www.aboutyou.de/p/jack-\u0026-jones/jeans-jjiglenn-jjfelix-am-458-pcw-sps-noos-3686141"
+  },
+  {
+    "id": 4123380,
+    "name": "Sweatshirt \u0027Essential\u0027",
+    "brand": "ADIDAS ORIGINALS",
+    "color": "schwarz",
+    "price": 49.41,
+    "articleID": "DV1600-290",
+    "url": "https://www.aboutyou.de/p/adidas-originals/sweatshirt-essential-4123380"
+  },
+  {
+    "id": 4326026,
+    "name": "Shirt \u0027ORIGHMVNECK\u0027",
+    "brand": "LEVI\u0027S",
+    "color": "grau",
+    "price": 17.91,
+    "articleID": "LEV0664004000001",
+    "url": "https://www.aboutyou.de/p/levis/shirt-orighmvneck-4326026"
+  },
+  {
+    "id": 4350614,
+    "name": "Shirt",
+    "brand": "ESPRIT",
+    "color": "schwarz",
+    "price": 14.31,
+    "articleID": "ESR4048001000001",
+    "url": "https://www.aboutyou.de/p/esprit/shirt-4350614"
+  },
+  {
+    "id": 4413070,
+    "name": "Shirt",
+    "brand": "TOM TAILOR DENIM",
+    "color": "weiss",
+    "price": 12.72,
+    "articleID": "TTD2784002000006",
+    "url": "https://www.aboutyou.de/p/tom-tailor-denim/shirt-4413070"
+  },
+  {
+    "id": 4205203,
+    "name": "Boxershorts \u0027Trunk\u0027",
+    "brand": "Tommy Hilfiger Underwear",
+    "color": "blau",
+    "price": 29.9,
+    "articleID": "THU0030028000001",
+    "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/boxershorts-trunk-4205203"
+  },
+  {
+    "id": 3652334,
+    "name": "Print-Shirt",
+    "brand": "ALPHA INDUSTRIES",
+    "color": "beige",
+    "price": 19.9,
+    "articleID": "API0047010000001",
+    "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-3652334"
+  },
+  {
+    "id": 4302494,
+    "name": "Sweatshirt \u0027Tech\u0027",
+    "brand": "ADIDAS ORIGINALS",
+    "color": "schwarz",
+    "price": 59.99,
+    "articleID": "ED6124-210",
+    "url": "https://www.aboutyou.de/p/adidas-originals/sweatshirt-tech-4302494"
+  },
+  {
+    "id": 3561187,
+    "name": "T-Shirt \u0027Original\u0027",
+    "brand": "Pepe Jeans",
+    "color": "schwarz",
+    "price": 22.41,
+    "articleID": "PEP0311009000003",
+    "url": "https://www.aboutyou.de/p/pepe-jeans/t-shirt-original-3561187"
+  },
+  {
+    "id": 4025063,
+    "name": "Mantel \u0027onsOSCAR WOOL COAT\u0027",
+    "brand": "Only \u0026 Sons",
+    "color": "beige",
+    "price": 64.9,
+    "articleID": "ONS0600002000001",
+    "url": "https://www.aboutyou.de/p/only-\u0026-sons/mantel-onsoscar-wool-coat-4025063"
+  },
+  {
+    "id": 4372125,
+    "name": "Shirt",
+    "brand": "s.Oliver",
+    "color": "blau",
+    "price": 14.31,
+    "articleID": "SOV2275003000001",
+    "url": "https://www.aboutyou.de/p/s.oliver/shirt-4372125"
+  },
+  {
+    "id": 4403879,
+    "name": "Shirt \u0027BIKE\u0027",
+    "brand": "Only \u0026 Sons",
+    "color": "blau",
+    "price": 11.18,
+    "articleID": "ONS1268001000003",
+    "url": "https://www.aboutyou.de/p/only-\u0026-sons/shirt-bike-4403879"
+  },
+  {
+    "id": 4106962,
+    "name": "Jeans",
+    "brand": "JACK \u0026 JONES",
+    "color": "blau",
+    "price": 71.91,
+    "articleID": "JAC1645001000001",
+    "url": "https://www.aboutyou.de/p/jack-\u0026-jones/jeans-4106962"
+  },
+  {
+    "id": 4476585,
+    "name": "Shirt \u0027onsALBERT\u0027",
+    "brand": "Only \u0026 Sons",
+    "color": "orange",
+    "price": 14.99,
+    "articleID": "5714493902141",
+    "url": "https://www.aboutyou.de/p/only-\u0026-sons/shirt-onsalbert-4476585"
+  },
+  {
+    "id": 4345517,
+    "name": "Shirt \u0027V-LOGO DISTRESS ARCH\u0027",
+    "brand": "GAP",
+    "color": "schwarz",
+    "price": 17.91,
+    "articleID": "GAP2200001000001",
+    "url": "https://www.aboutyou.de/p/gap/shirt-v-logo-distress-arch-4345517"
+  },
+  {
+    "id": 4372145,
+    "name": "Shirt",
+    "brand": "s.Oliver",
+    "color": "gruen",
+    "price": 9.54,
+    "articleID": "SOV2275005000001",
+    "url": "https://www.aboutyou.de/p/s.oliver/shirt-4372145"
+  },
+  {
+    "id": 3846869,
+    "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+    "brand": "naketano",
+    "color": "gruen",
+    "price": 35.91,
+    "articleID": "NAK1275003000001",
+    "url": "https://www.aboutyou.de/p/naketano/sweatshirt-diese-nüsse-3846869"
+  },
+  {
+    "id": 3663552,
+    "name": "Comfort Fit Jeans \u0027MIKE ORG JOS 097\u0027",
+    "brand": "JACK \u0026 JONES",
+    "color": "blau",
+    "price": 71.91,
+    "articleID": "JAC0546001000001",
+    "url": "https://www.aboutyou.de/p/jack-\u0026-jones/comfort-fit-jeans-mike-org-jos-097-3663552"
+  },
+  {
+    "id": 4303545,
+    "name": "Sweatshirt",
+    "brand": "ELLESSE",
+    "color": "weiss",
+    "price": 42.66,
+    "articleID": "332338017",
+    "url": "https://www.aboutyou.de/p/ellesse/sweatshirt-4303545"
+  },
+  {
+    "id": 4057914,
+    "name": "Sweatshirt \u0027Sheriff Von Huckingen\u0027",
+    "brand": "naketano",
+    "color": "grau",
+    "price": 35.91,
+    "articleID": "NAK1751002000001",
+    "url": "https://www.aboutyou.de/p/naketano/sweatshirt-sheriff-von-huckingen-4057914"
+  },
+  {
+    "id": 4405940,
+    "name": "T-Shirt \u0027onsAlbert\u0027",
+    "brand": "Only \u0026 Sons",
+    "color": "schwarz",
+    "price": 14.99,
+    "articleID": "5713741622237",
+    "url": "https://www.aboutyou.de/p/only-\u0026-sons/t-shirt-onsalbert-4405940"
+  },
+  {
+    "id": 4358981,
+    "name": "Pullover",
+    "brand": "Petrol Industries",
+    "color": "schwarz",
+    "price": 62.99,
+    "articleID": "8720056109213",
+    "url": "https://www.aboutyou.de/p/petrol-industries/pullover-4358981"
+  },
+  {
+    "id": 4151085,
+    "name": "Shirt \u0027ST Branded Pique Polo Basics\u0027",
+    "brand": "Banana Republic",
+    "color": "weiss",
+    "price": 29.9,
+    "articleID": "BNR0230003000001",
+    "url": "https://www.aboutyou.de/p/banana-republic/shirt-st-branded-pique-polo-basics-4151085"
+  },
+  {
+    "id": 4414140,
+    "name": "Winterjacke \u0027Adeline\u0027",
+    "brand": "INDICODE JEANS",
+    "color": "braun",
+    "price": 99.95,
+    "articleID": "1034764607",
+    "url": "https://www.aboutyou.de/p/indicode-jeans/winterjacke-adeline-4414140"
+  },
+  {
+    "id": 4356956,
+    "name": "Shirt \u0027MATT\u0027",
+    "brand": "Only \u0026 Sons",
+    "color": "gruen",
+    "price": 14.9,
+    "articleID": "ONS0284019000001",
+    "url": "https://www.aboutyou.de/p/only-\u0026-sons/shirt-matt-4356956"
+  },
+  {
+    "id": 4116255,
+    "name": "Hoodie \u0027Trefoil\u0027",
+    "brand": "ADIDAS ORIGINALS",
+    "color": "blau",
+    "price": 74.9,
+    "articleID": "DV1504-310",
+    "url": "https://www.aboutyou.de/p/adidas-originals/hoodie-trefoil-4116255"
+  },
+  {
+    "id": 4057890,
+    "name": "Sweatshirt \u0027Sheriff Von Huckingen\u0027",
+    "brand": "naketano",
+    "color": "blau",
+    "price": 35.91,
+    "articleID": "NAK1751004000001",
+    "url": "https://www.aboutyou.de/p/naketano/sweatshirt-sheriff-von-huckingen-4057890"
+  },
+  {
+    "id": 4057885,
+    "name": "Sweatshirt \u0027Sheriff Von Huckingen\u0027",
+    "brand": "naketano",
+    "color": "rot",
+    "price": 35.91,
+    "articleID": "NAK1751001000001",
+    "url": "https://www.aboutyou.de/p/naketano/sweatshirt-sheriff-von-huckingen-4057885"
+  },
+  {
+    "id": 4437861,
+    "name": "Shirt \u0027MADDOX\u0027",
+    "brand": "Alife and Kickin",
+    "color": "blau",
+    "price": 21.9,
+    "articleID": "23272-L",
+    "url": "https://www.aboutyou.de/p/alife-and-kickin/shirt-maddox-4437861"
+  },
+  {
+    "id": 4370290,
+    "name": "Pullover",
+    "brand": "Petrol Industries",
+    "color": "gruen",
+    "price": 67.41,
+    "articleID": "8720056109114",
+    "url": "https://www.aboutyou.de/p/petrol-industries/pullover-4370290"
+  },
+  {
+    "id": 3924766,
+    "name": "Hoodie",
+    "brand": "JACK \u0026 JONES",
+    "color": "schwarz",
+    "price": 26.91,
+    "articleID": "JAC0907001000001",
+    "url": "https://www.aboutyou.de/p/jack-\u0026-jones/hoodie-3924766"
+  },
+  {
+    "id": 4156182,
+    "name": "Hoody \u0027Basic\u0027",
+    "brand": "ALPHA INDUSTRIES",
+    "color": "weiss",
+    "price": 63.9,
+    "articleID": "276805021",
+    "url": "https://www.aboutyou.de/p/alpha-industries/hoody-basic-4156182"
+  },
+  {
+    "id": 4395898,
+    "name": "Shirt \u0027t-shirt 1/2\u0027",
+    "brand": "CAMP DAVID",
+    "color": "blau",
+    "price": 23.94,
+    "articleID": "CPD0066001000001",
+    "url": "https://www.aboutyou.de/p/camp-david/shirt-t-shirt-1-2-4395898"
+  },
+  {
+    "id": 3934987,
+    "name": "Strickpullover \u0027Feuerkralle\u0027",
+    "brand": "naketano",
+    "color": "grau",
+    "price": 42.42,
+    "articleID": "NAK1389003000001",
+    "url": "https://www.aboutyou.de/p/naketano/strickpullover-feuerkralle-3934987"
+  },
+  {
+    "id": 4301691,
+    "name": "Sweatshirt",
+    "brand": "ELLESSE",
+    "color": "blau",
+    "price": 52.16,
+    "articleID": "332338019",
+    "url": "https://www.aboutyou.de/p/ellesse/sweatshirt-4301691"
+  },
+  {
+    "id": 3928846,
+    "name": "Boxershorts \u0027Trunk\u0027 (3er Pack)",
+    "brand": "Tommy Hilfiger Underwear",
+    "color": "blau",
+    "price": 39.9,
+    "articleID": "THU0030013000001",
+    "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/boxershorts-trunk-(3er-pack)-3928846"
+  },
+  {
+    "id": 4423550,
+    "name": "Shirt",
+    "brand": "s.Oliver",
+    "color": "rot",
+    "price": 9.54,
+    "articleID": "SOV2275002000001",
+    "url": "https://www.aboutyou.de/p/s.oliver/shirt-4423550"
+  },
+  {
+    "id": 3914502,
+    "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+    "brand": "naketano",
+    "color": "blau",
+    "price": 39.9,
+    "articleID": "NAK1275009000001",
+    "url": "https://www.aboutyou.de/p/naketano/sweatshirt-diese-nüsse-3914502"
+  },
+  {
+    "id": 4425475,
+    "name": "Pullover \u0027Fame\u0027",
+    "brand": "JACK \u0026 JONES",
+    "color": "beige",
+    "price": 34.99,
+    "articleID": "5714491162561",
+    "url": "https://www.aboutyou.de/p/jack-\u0026-jones/pullover-fame-4425475"
+  },
+  {
+    "id": 3778310,
+    "name": "T-Shirt \u0027onsMATT LONGY TEE\u0027",
+    "brand": "Only \u0026 Sons",
+    "color": "grau",
+    "price": 11.18,
+    "articleID": "ONS0284007000001",
+    "url": "https://www.aboutyou.de/p/only-\u0026-sons/t-shirt-onsmatt-longy-tee-3778310"
+  },
+  {
+    "id": 3915526,
+    "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+    "brand": "naketano",
+    "color": "gruen",
+    "price": 39.9,
+    "articleID": "NAK1275010000001",
+    "url": "https://www.aboutyou.de/p/naketano/sweatshirt-diese-nüsse-3915526"
+  },
+  {
+    "id": 3746681,
+    "name": "Boxershorts \u0027Trunk\u0027",
+    "brand": "Tommy Hilfiger Underwear",
+    "color": "blau",
+    "price": 39.99,
+    "articleID": "588712289",
+    "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/boxershorts-trunk-3746681"
+  },
+  {
+    "id": 3795832,
+    "name": "Pullover \u0027Rüdiger von Ouzovich\u0027",
+    "brand": "naketano",
+    "color": "grau",
+    "price": 38.17,
+    "articleID": "NAK1391002000001",
+    "url": "https://www.aboutyou.de/p/naketano/pullover-rüdiger-von-ouzovich-3795832"
+  },
+  {
+    "id": 4378370,
+    "name": "Sweatshirt \u0027Essential\u0027",
+    "brand": "ADIDAS ORIGINALS",
+    "color": "weiss",
+    "price": 49.95,
+    "articleID": "ED6208-290",
+    "url": "https://www.aboutyou.de/p/adidas-originals/sweatshirt-essential-4378370"
+  },
+  {
+    "id": 4301571,
+    "name": "T-Shirt \u0027ORIGHMVNECK\u0027",
+    "brand": "LEVI\u0027S",
+    "color": "schwarz",
+    "price": 17.91,
+    "articleID": "LEV0664002000001",
+    "url": "https://www.aboutyou.de/p/levis/t-shirt-orighmvneck-4301571"
+  },
+  {
+    "id": 3795834,
+    "name": "Pullover \u0027Rüdiger von Ouzovich\u0027",
+    "brand": "naketano",
+    "color": "braun",
+    "price": 38.17,
+    "articleID": "NAK1391004000001",
+    "url": "https://www.aboutyou.de/p/naketano/pullover-rüdiger-von-ouzovich-3795834"
+  },
+  {
+    "id": 4389632,
+    "name": "Hemd",
+    "brand": "s.Oliver",
+    "color": "blau",
+    "price": 27.92,
+    "articleID": "SOV2269001000001",
+    "url": "https://www.aboutyou.de/p/s.oliver/hemd-4389632"
+  },
+  {
+    "id": 4300548,
+    "name": "Sweatshirt",
+    "brand": "ELLESSE",
+    "color": "schwarz",
+    "price": 42.66,
+    "articleID": "332338004",
+    "url": "https://www.aboutyou.de/p/ellesse/sweatshirt-4300548"
+  },
+  {
+    "id": 4294406,
+    "name": "Boxershorts",
+    "brand": "Tommy Hilfiger Underwear",
+    "color": "blau",
+    "price": 33.92,
+    "articleID": "THU0030027000001",
+    "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/boxershorts-4294406"
+  },
+  {
+    "id": 4437773,
+    "name": "Shirt \u0027MADDOX\u0027",
+    "brand": "Alife and Kickin",
+    "color": "grau",
+    "price": 21.9,
+    "articleID": "23273-S",
+    "url": "https://www.aboutyou.de/p/alife-and-kickin/shirt-maddox-4437773"
+  },
+  {
+    "id": 4345619,
+    "name": "Shirt \u0027Theodore Tee\u0027",
+    "brand": "Iriedaily",
+    "color": "mischfarben",
+    "price": 34.11,
+    "articleID": "IRD0578001000002",
+    "url": "https://www.aboutyou.de/p/iriedaily/shirt-theodore-tee-4345619"
+  },
+  {
+    "id": 4296459,
+    "name": "Shirt \u0027LOCK UP TEE\u0027",
+    "brand": "ADIDAS ORIGINALS",
+    "color": "blau",
+    "price": 32.9,
+    "articleID": "ED6117-210",
+    "url": "https://www.aboutyou.de/p/adidas-originals/shirt-lock-up-tee-4296459"
+  },
+  {
+    "id": 4435734,
+    "name": "T-Shirt",
+    "brand": "TOM TAILOR",
+    "color": "grau",
+    "price": 11.61,
+    "articleID": "TOT5251002000005",
+    "url": "https://www.aboutyou.de/p/tom-tailor/t-shirt-4435734"
+  },
+  {
+    "id": 3795819,
+    "name": "Pullover \u0027Rüdiger von Ouzovich\u0027",
+    "brand": "naketano",
+    "color": "gruen",
+    "price": 35.92,
+    "articleID": "NAK1391003000001",
+    "url": "https://www.aboutyou.de/p/naketano/pullover-rüdiger-von-ouzovich-3795819"
+  },
+  {
+    "id": 4329241,
+    "name": "Jacke",
+    "brand": "ADIDAS ORIGINALS",
+    "color": "schwarz",
+    "price": 109.0,
+    "articleID": "ED5827-210",
+    "url": "https://www.aboutyou.de/p/adidas-originals/jacke-4329241"
+  },
+  {
+    "id": 4156261,
+    "name": "Print-Shirt",
+    "brand": "ALPHA INDUSTRIES",
+    "color": "rot",
+    "price": 19.9,
+    "articleID": "API0047021000001",
+    "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-4156261"
+  },
+  {
+    "id": 4131673,
+    "name": "Sweatshirt \u0027Essential\u0027",
+    "brand": "ADIDAS ORIGINALS",
+    "color": "weiss",
+    "price": 54.9,
+    "articleID": "DV1599-290",
+    "url": "https://www.aboutyou.de/p/adidas-originals/sweatshirt-essential-4131673"
+  },
+  {
+    "id": 4304675,
+    "name": "Jeans \u0027IGLENN\u0027",
+    "brand": "JACK \u0026 JONES",
+    "color": "schwarz",
+    "price": 35.91,
+    "articleID": "JAC2217001000023",
+    "url": "https://www.aboutyou.de/p/jack-\u0026-jones/jeans-iglenn-4304675"
+  },
+  {
+    "id": 2206531,
+    "name": "Shirt \u0027Original\u0027",
+    "brand": "Pepe Jeans",
+    "color": "weiss",
+    "price": 21.17,
+    "articleID": "PEP0311004003000",
+    "url": "https://www.aboutyou.de/p/pepe-jeans/shirt-original-2206531"
+  },
+  {
+    "id": 4299563,
+    "name": "Shirt \u0027LOCK UP TEE\u0027",
+    "brand": "ADIDAS ORIGINALS",
+    "color": "schwarz",
+    "price": 32.9,
+    "articleID": "ED6116-210",
+    "url": "https://www.aboutyou.de/p/adidas-originals/shirt-lock-up-tee-4299563"
+  },
+  {
+    "id": 3888988,
+    "name": "Trunks",
+    "brand": "Tommy Hilfiger Underwear",
+    "color": "blau",
+    "price": 39.99,
+    "articleID": "643782085",
+    "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/trunks-3888988"
+  },
+  {
+    "id": 4057939,
+    "name": "Sweatshirt \u0027Sheriff Von Huckingen\u0027",
+    "brand": "naketano",
+    "color": "grau",
+    "price": 35.91,
+    "articleID": "NAK1751003000001",
+    "url": "https://www.aboutyou.de/p/naketano/sweatshirt-sheriff-von-huckingen-4057939"
+  },
+  {
+    "id": 4362025,
+    "name": "Boxershorts",
+    "brand": "Tommy Hilfiger Underwear",
+    "color": "mischfarben",
+    "price": 39.9,
+    "articleID": "THU0030035000001",
+    "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/boxershorts-4362025"
+  },
+  {
+    "id": 4276017,
+    "name": "Boxershorts \u0027Trunk\u0027",
+    "brand": "Tommy Hilfiger Underwear",
+    "color": "blau",
+    "price": 39.9,
+    "articleID": "814960719",
+    "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/boxershorts-trunk-4276017"
+  },
+  {
+    "id": 4207411,
+    "name": "Sweatshirt",
+    "brand": "BRAVE SOUL",
+    "color": "braun",
+    "price": 18.68,
+    "articleID": "BRA0025002000001",
+    "url": "https://www.aboutyou.de/p/brave-soul/sweatshirt-4207411"
+  },
+  {
+    "id": 3886920,
+    "name": "Sweatshirt \u0027Pray Hoody\u0027",
+    "brand": "Mister Tee",
+    "color": "weiss",
+    "price": 35.91,
+    "articleID": "MRC0025004000001",
+    "url": "https://www.aboutyou.de/p/mister-tee/sweatshirt-pray-hoody-3886920"
+  },
+  {
+    "id": 4207407,
+    "name": "Sweatshirt",
+    "brand": "BRAVE SOUL",
+    "color": "weiss",
+    "price": 18.62,
+    "articleID": "BRA0025004000001",
+    "url": "https://www.aboutyou.de/p/brave-soul/sweatshirt-4207407"
+  },
+  {
+    "id": 4207414,
+    "name": "Sweatshirt",
+    "brand": "BRAVE SOUL",
+    "color": "blau",
+    "price": 22.41,
+    "articleID": "BRA0025003000001",
+    "url": "https://www.aboutyou.de/p/brave-soul/sweatshirt-4207414"
+  },
+  {
+    "id": 4371256,
+    "name": "Sweatshirt",
+    "brand": "Champion Authentic Athletic Apparel",
+    "color": "gelb",
+    "price": 53.91,
+    "articleID": "CHP0322008000007",
+    "url": "https://www.aboutyou.de/p/champion-authentic-athletic-apparel/sweatshirt-4371256"
+  },
+  {
+    "id": 4151106,
+    "name": "Shirt \u0027ST Branded Pique Polo Basics\u0027",
+    "brand": "Banana Republic",
+    "color": "schwarz",
+    "price": 26.18,
+    "articleID": "BNR0230001000001",
+    "url": "https://www.aboutyou.de/p/banana-republic/shirt-st-branded-pique-polo-basics-4151106"
+  },
+  {
+    "id": 3935164,
+    "name": "Pullover",
+    "brand": "naketano",
+    "color": "gruen",
+    "price": 50.92,
+    "articleID": "NAK1389007000001",
+    "url": "https://www.aboutyou.de/p/naketano/pullover-3935164"
+  },
+  {
+    "id": 4191165,
+    "name": "Boxershorts \u0027Trunk\u0027",
+    "brand": "Tommy Hilfiger Underwear",
+    "color": "blau",
+    "price": 34.9,
+    "articleID": "THU0030029000001",
+    "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/boxershorts-trunk-4191165"
+  },
+  {
+    "id": 4370233,
+    "name": "Pullover",
+    "brand": "Petrol Industries",
+    "color": "grau",
+    "price": 47.92,
+    "articleID": "PES0112003000001",
+    "url": "https://www.aboutyou.de/p/petrol-industries/pullover-4370233"
+  },
+  {
+    "id": 4411328,
+    "name": "Blouson \u0027ADELINE\u0027",
+    "brand": "INDICODE JEANS",
+    "color": "braun",
+    "price": 99.95,
+    "articleID": "1034764599",
+    "url": "https://www.aboutyou.de/p/indicode-jeans/blouson-adeline-4411328"
+  },
+  {
+    "id": 3935161,
+    "name": "Kapuzenpullover \u0027Feuerkralle\u0027",
+    "brand": "naketano",
+    "color": "blau",
+    "price": 50.92,
+    "articleID": "NAK1389005000001",
+    "url": "https://www.aboutyou.de/p/naketano/kapuzenpullover-feuerkralle-3935161"
+  },
+  {
+    "id": 4391877,
+    "name": "Shirt \u0027MADDOX\u0027",
+    "brand": "Alife and Kickin",
+    "color": "rot",
+    "price": 16.92,
+    "articleID": "ALF0116001000002",
+    "url": "https://www.aboutyou.de/p/alife-and-kickin/shirt-maddox-4391877"
+  },
+  {
+    "id": 3935157,
+    "name": "Strickpullover \u0027Feuerkralle\u0027",
+    "brand": "naketano",
+    "color": "grau",
+    "price": 47.92,
+    "articleID": "NAK1389004000001",
+    "url": "https://www.aboutyou.de/p/naketano/strickpullover-feuerkralle-3935157"
+  },
+  {
+    "id": 4151223,
+    "name": "Shirt \u0027ST Branded Pique Polo Basics\u0027",
+    "brand": "Banana Republic",
+    "color": "blau",
+    "price": 29.93,
+    "articleID": "BNR0230002000001",
+    "url": "https://www.aboutyou.de/p/banana-republic/shirt-st-branded-pique-polo-basics-4151223"
+  },
+  {
+    "id": 4156337,
+    "name": "T-Shirt \u0027Trefoil\u0027",
+    "brand": "ADIDAS ORIGINALS",
+    "color": "rot",
+    "price": 26.9,
+    "articleID": "DX3609-290",
+    "url": "https://www.aboutyou.de/p/adidas-originals/t-shirt-trefoil-4156337"
+  },
+  {
+    "id": 3418020,
+    "name": "Jeans \u0027Glenn Original 887\u0027",
+    "brand": "JACK \u0026 JONES",
+    "color": "blau",
+    "price": 62.91,
+    "articleID": "JAC0230001013001",
+    "url": "https://www.aboutyou.de/p/jack-\u0026-jones/jeans-glenn-original-887-3418020"
+  },
+  {
+    "id": 3935154,
+    "name": "Strickpullover mit Kapuze \u0027Feuerkralle\u0027",
+    "brand": "naketano",
+    "color": "gruen",
+    "price": 50.92,
+    "articleID": "NAK1389006000002",
+    "url": "https://www.aboutyou.de/p/naketano/strickpullover-mit-kapuze-feuerkralle-3935154"
+  },
+  {
+    "id": 3935147,
+    "name": "Pullover",
+    "brand": "naketano",
+    "color": "blau",
+    "price": 50.92,
+    "articleID": "NAK1389008000002",
+    "url": "https://www.aboutyou.de/p/naketano/pullover-3935147"
+  },
+  {
+    "id": 4327385,
+    "name": "Sweatshirt",
+    "brand": "Tommy Jeans",
+    "color": "blau",
+    "price": 84.92,
+    "articleID": "HID2284001000002",
+    "url": "https://www.aboutyou.de/p/tommy-jeans/sweatshirt-4327385"
+  },
+  {
+    "id": 4157345,
+    "name": "Shirt",
+    "brand": "ALPHA INDUSTRIES",
+    "color": "gruen",
+    "price": 19.9,
+    "articleID": "API0047024000001",
+    "url": "https://www.aboutyou.de/p/alpha-industries/shirt-4157345"
+  },
+  {
+    "id": 4434919,
+    "name": "Shirt",
+    "brand": "Champion Authentic Athletic Apparel",
+    "color": "blau",
+    "price": 24.9,
+    "articleID": "CHP0324001000001",
+    "url": "https://www.aboutyou.de/p/champion-authentic-athletic-apparel/shirt-4434919"
+  },
+  {
+    "id": 4157342,
+    "name": "Shirt",
+    "brand": "ALPHA INDUSTRIES",
+    "color": "orange",
+    "price": 21.9,
+    "articleID": "API0047015000002",
+    "url": "https://www.aboutyou.de/p/alpha-industries/shirt-4157342"
+  },
+  {
+    "id": 4372453,
+    "name": "Pullover \u0027Crazy Fresh\u0027",
+    "brand": "Iriedaily",
+    "color": "mischfarben",
+    "price": 51.92,
+    "articleID": "IRD0565002000001",
+    "url": "https://www.aboutyou.de/p/iriedaily/pullover-crazy-fresh-4372453"
+  },
+  {
+    "id": 4404198,
+    "name": "Shirt \u0027JORUPTON TEE SS CREW NECK\u0027",
+    "brand": "JACK \u0026 JONES",
+    "color": "blau",
+    "price": 10.79,
+    "articleID": "JAC2380004000005",
+    "url": "https://www.aboutyou.de/p/jack-\u0026-jones/shirt-jorupton-tee-ss-crew-neck-4404198"
+  },
+  {
+    "id": 4396014,
+    "name": "T-Shirt",
+    "brand": "CAMP DAVID",
+    "color": "lila",
+    "price": 27.93,
+    "articleID": "CPD0065001000001",
+    "url": "https://www.aboutyou.de/p/camp-david/t-shirt-4396014"
+  },
+  {
+    "id": 3916688,
+    "name": "Trunks",
+    "brand": "Tommy Hilfiger Underwear",
+    "color": "blau",
+    "price": 39.99,
+    "articleID": "925651913",
+    "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/trunks-3916688"
+  },
+  {
+    "id": 4404207,
+    "name": "Shirt \u0027JORUPTON TEE SS CREW NECK\u0027",
+    "brand": "JACK \u0026 JONES",
+    "color": "grau",
+    "price": 10.79,
+    "articleID": "JAC2380003000003",
+    "url": "https://www.aboutyou.de/p/jack-\u0026-jones/shirt-jorupton-tee-ss-crew-neck-4404207"
+  },
+  {
+    "id": 3916686,
+    "name": "Boxershorts \u0027Trunk\u0027 (3er Pack)",
+    "brand": "Tommy Hilfiger Underwear",
+    "color": "blau",
+    "price": 29.9,
+    "articleID": "THU0030019000001",
+    "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/boxershorts-trunk-(3er-pack)-3916686"
+  },
+  {
+    "id": 4299766,
+    "name": "T-Shirt",
+    "brand": "GUESS",
+    "color": "schwarz",
+    "price": 29.9,
+    "articleID": "GUE1251001000002",
+    "url": "https://www.aboutyou.de/p/guess/t-shirt-4299766"
+  },
+  {
+    "id": 4300672,
+    "name": "Sweatshirt \u0027SMALL LOGO GOTTERO\u0027",
+    "brand": "ELLESSE",
+    "color": "rot",
+    "price": 44.9,
+    "articleID": "ELS0467006000001",
+    "url": "https://www.aboutyou.de/p/ellesse/sweatshirt-small-logo-gottero-4300672"
+  },
+  {
+    "id": 4371328,
+    "name": "Sweatshirt",
+    "brand": "Champion Authentic Athletic Apparel",
+    "color": "gruen",
+    "price": 56.91,
+    "articleID": "813190935",
+    "url": "https://www.aboutyou.de/p/champion-authentic-athletic-apparel/sweatshirt-4371328"
+  },
+  {
+    "id": 3912583,
+    "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+    "brand": "naketano",
+    "color": "gruen",
+    "price": 31.41,
+    "articleID": "NAK1275022000001",
+    "url": "https://www.aboutyou.de/p/naketano/sweatshirt-diese-nüsse-3912583"
+  },
+  {
+    "id": 4301698,
+    "name": "Sweatshirt",
+    "brand": "ELLESSE",
+    "color": "gruen",
+    "price": 44.9,
+    "articleID": "ELS0467005000001",
+    "url": "https://www.aboutyou.de/p/ellesse/sweatshirt-4301698"
+  },
+  {
+    "id": 4385670,
+    "name": "T-Shirt",
+    "brand": "ESPRIT",
+    "color": "blau",
+    "price": 11.93,
+    "articleID": "ESR4048002000001",
+    "url": "https://www.aboutyou.de/p/esprit/t-shirt-4385670"
+  },
+  {
+    "id": 3569662,
+    "name": "Bomber \u0027Light Bomber Jacket\u0027",
+    "brand": "Urban Classics",
+    "color": "beige",
+    "price": 15.9,
+    "articleID": "UCL0013003000001",
+    "url": "https://www.aboutyou.de/p/urban-classics/bomber-light-bomber-jacket-3569662"
+  },
+  {
+    "id": 3916786,
+    "name": "Hoodie \u0027Trefoil\u0027",
+    "brand": "ADIDAS ORIGINALS",
+    "color": "grau",
+    "price": 53.91,
+    "articleID": "ADT0693002000004",
+    "url": "https://www.aboutyou.de/p/adidas-originals/hoodie-trefoil-3916786"
+  },
+  {
+    "id": 4135929,
+    "name": "Boxershorts \u0027Trunk\u0027",
+    "brand": "Tommy Hilfiger Underwear",
+    "color": "blau",
+    "price": 39.99,
+    "articleID": "926173817",
+    "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/boxershorts-trunk-4135929"
+  },
+  {
+    "id": 3569661,
+    "name": "Bomber \u0027Light Bomber Jacket\u0027",
+    "brand": "Urban Classics",
+    "color": "gruen",
+    "price": 35.91,
+    "articleID": "UCL0013004000001",
+    "url": "https://www.aboutyou.de/p/urban-classics/bomber-light-bomber-jacket-3569661"
+  },
+  {
+    "id": 4332438,
+    "name": "Hose \u0027FIREBIRD TP\u0027",
+    "brand": "ADIDAS ORIGINALS",
+    "color": "orange",
+    "price": 50.92,
+    "articleID": "ADT1205004000001",
+    "url": "https://www.aboutyou.de/p/adidas-originals/hose-firebird-tp-4332438"
+  },
+  {
+    "id": 4131816,
+    "name": "T-Shirt \u0027Trefoil\u0027",
+    "brand": "ADIDAS ORIGINALS",
+    "color": "blau",
+    "price": 29.9,
+    "articleID": "ADT0421013000001",
+    "url": "https://www.aboutyou.de/p/adidas-originals/t-shirt-trefoil-4131816"
+  },
+  {
+    "id": 4135920,
+    "name": "Boxershorts \u0027Trunk\u0027",
+    "brand": "Tommy Hilfiger Underwear",
+    "color": "blau",
+    "price": 39.99,
+    "articleID": "926262316",
+    "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/boxershorts-trunk-4135920"
+  },
+  {
+    "id": 4404118,
+    "name": "T-Shirt \u0027DENNIS\u0027",
+    "brand": "FARAH",
+    "color": "rot",
+    "price": 26.91,
+    "articleID": "FAR0062004000001",
+    "url": "https://www.aboutyou.de/p/farah/t-shirt-dennis-4404118"
+  },
+  {
+    "id": 4332440,
+    "name": "Hose \u0027FIREBIRD TP\u0027",
+    "brand": "ADIDAS ORIGINALS",
+    "color": "rot",
+    "price": 64.9,
+    "articleID": "ED7011-210",
+    "url": "https://www.aboutyou.de/p/adidas-originals/hose-firebird-tp-4332440"
+  },
+  {
+    "id": 3767265,
+    "name": "Bomberjacke \u0027 Marlon \u0027",
+    "brand": "INDICODE JEANS",
+    "color": "grau",
+    "price": 109.9,
+    "articleID": "1031088298",
+    "url": "https://www.aboutyou.de/p/indicode-jeans/bomberjacke--marlon--3767265"
+  },
+  {
+    "id": 4332450,
+    "name": "Hose \u0027FIREBIRD TP\u0027",
+    "brand": "ADIDAS ORIGINALS",
+    "color": "schwarz",
+    "price": 47.92,
+    "articleID": "ADT1205001000001",
+    "url": "https://www.aboutyou.de/p/adidas-originals/hose-firebird-tp-4332450"
+  },
+  {
+    "id": 4058084,
+    "name": "Sweatshirt \u0027Diese Nüsse\u0027",
+    "brand": "naketano",
+    "color": "braun",
+    "price": 31.41,
+    "articleID": "NAK1275012000001",
+    "url": "https://www.aboutyou.de/p/naketano/sweatshirt-diese-nüsse-4058084"
+  },
+  {
+    "id": 4389789,
+    "name": "Hemd",
+    "brand": "s.Oliver",
+    "color": "rot",
+    "price": 31.41,
+    "articleID": "SOV2269002000001",
+    "url": "https://www.aboutyou.de/p/s.oliver/hemd-4389789"
+  },
+  {
+    "id": 4157401,
+    "name": "Shirt",
+    "brand": "ALPHA INDUSTRIES",
+    "color": "weiss",
+    "price": 19.9,
+    "articleID": "API0047023000004",
+    "url": "https://www.aboutyou.de/p/alpha-industries/shirt-4157401"
+  },
+  {
+    "id": 3767262,
+    "name": "Blouson \u0027 Marlon \u0027",
+    "brand": "INDICODE JEANS",
+    "color": "blau",
+    "price": 109.9,
+    "articleID": "1029382028",
+    "url": "https://www.aboutyou.de/p/indicode-jeans/blouson--marlon--3767262"
+  },
+  {
+    "id": 4414383,
+    "name": "Mantel \u0027Oskar\u0027",
+    "brand": "Only \u0026 Sons",
+    "color": "grau",
+    "price": 92.65,
+    "articleID": "ONS0600005000001",
+    "url": "https://www.aboutyou.de/p/only-\u0026-sons/mantel-oskar-4414383"
+  },
+  {
+    "id": 4295598,
+    "name": "T-Shirt",
+    "brand": "LEVI\u0027S",
+    "color": "rot",
+    "price": 24.9,
+    "articleID": "LEV0013005000001",
+    "url": "https://www.aboutyou.de/p/levis/t-shirt-4295598"
+  },
+  {
+    "id": 4187088,
+    "name": "T-Shirt \u0027MATT\u0027",
+    "brand": "Only \u0026 Sons",
+    "color": "gruen",
+    "price": 11.9,
+    "articleID": "ONS0284015000001",
+    "url": "https://www.aboutyou.de/p/only-\u0026-sons/t-shirt-matt-4187088"
+  },
+  {
+    "id": 4408242,
+    "name": "T-Shirt",
+    "brand": "COLUMBIA",
+    "color": "blau",
+    "price": 16.74,
+    "articleID": "COB0117003000001",
+    "url": "https://www.aboutyou.de/p/columbia/t-shirt-4408242"
+  },
+  {
+    "id": 3766221,
+    "name": "Bomberjacke \u0027 Marlon \u0027",
+    "brand": "INDICODE JEANS",
+    "color": "schwarz",
+    "price": 109.9,
+    "articleID": "1029382022",
+    "url": "https://www.aboutyou.de/p/indicode-jeans/bomberjacke--marlon--3766221"
+  },
+  {
+    "id": 4408246,
+    "name": "T-Shirt",
+    "brand": "COLUMBIA",
+    "color": "blau",
+    "price": 16.74,
+    "articleID": "COB0117002000001",
+    "url": "https://www.aboutyou.de/p/columbia/t-shirt-4408246"
+  },
+  {
+    "id": 3766218,
+    "name": "Bomberjacke \u0027 Marlon \u0027",
+    "brand": "INDICODE JEANS",
+    "color": "gruen",
+    "price": 109.9,
+    "articleID": "1031088292",
+    "url": "https://www.aboutyou.de/p/indicode-jeans/bomberjacke--marlon--3766218"
+  },
+  {
+    "id": 4187081,
+    "name": "T-Shirt \u0027MATT\u0027",
+    "brand": "Only \u0026 Sons",
+    "color": "blau",
+    "price": 11.61,
+    "articleID": "ONS0284014000001",
+    "url": "https://www.aboutyou.de/p/only-\u0026-sons/t-shirt-matt-4187081"
+  },
+  {
+    "id": 4352953,
+    "name": "Boxershorts",
+    "brand": "JACK \u0026 JONES",
+    "color": "schwarz",
+    "price": 22.41,
+    "articleID": "JAC2441001000001",
+    "url": "https://www.aboutyou.de/p/jack-\u0026-jones/boxershorts-4352953"
+  },
+  {
+    "id": 4187076,
+    "name": "T-Shirt \u0027MATT\u0027",
+    "brand": "Only \u0026 Sons",
+    "color": "grau",
+    "price": 14.9,
+    "articleID": "ONS0284016000001",
+    "url": "https://www.aboutyou.de/p/only-\u0026-sons/t-shirt-matt-4187076"
+  }
+]
